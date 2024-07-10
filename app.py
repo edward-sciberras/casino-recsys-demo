@@ -7,7 +7,18 @@ from io import BytesIO
 import streamlit_authenticator as stauth
     
 # Access the secrets via the st.secrets dict
-credentials = st.secrets["credentials"]
+credentials = {
+    "usernames": {
+        "xibby": {
+            "email": st.secrets["credentials"]["usernames"]["xibby"]["email"],
+            "failed_login_attempts": st.secrets["credentials"]["usernames"]["xibby"]["failed_login_attempts"],
+            "logged_in": st.secrets["credentials"]["usernames"]["xibby"]["logged_in"],
+            "name": st.secrets["credentials"]["usernames"]["xibby"]["name"],
+            "password": st.secrets["credentials"]["usernames"]["xibby"]["password"]
+        }
+    }
+}
+
 cookie_name = st.secrets["cookie"]["name"]
 cookie_key = st.secrets["cookie"]["key"]
 cookie_expiry_days = st.secrets["cookie"]["expiry_days"]
