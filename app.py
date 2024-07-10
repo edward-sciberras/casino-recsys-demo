@@ -11,12 +11,20 @@ from yaml.loader import SafeLoader
 with open('config.yaml') as file:
     config = yaml.load(file, Loader=SafeLoader)
     
+# Access the secrets via the st.secrets dict
+credentials = st.secrets["credentials"]
+cookie_name = st.secrets["cookie"]["name"]
+cookie_key = st.secrets["cookie"]["key"]
+cookie_expiry_days = st.secrets["cookie"]["expiry_days"]
+pre_authorized = st.secrets["pre-authorized"]
+
+# Initialize the authenticator
 authenticator = stauth.Authenticate(
-    config['credentials'],
-    config['cookie']['name'],
-    config['cookie']['key'],
-    config['cookie']['expiry_days'],
-    config['pre-authorized']
+    credentials,
+    cookie_name,
+    cookie_key,
+    cookie_expiry_days,
+    pre_authorized
 )
 
 authenticator.login()
