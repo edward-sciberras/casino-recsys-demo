@@ -1,0 +1,15 @@
+credentials:
+  usernames:
+    xibby:
+      email: edward.sciberras@kingmakers.com
+      failed_login_attempts: 0 # Will be managed automatically
+      logged_in: False # Will be managed automatically
+      name: Edward Sciberras
+      password: c4s1no # Will be hashed automatically
+cookie:
+  expiry_days: 30
+  key: casino-recsys # Must be string
+  name: casino-recsys
+pre-authorized:
+  emails:
+  - edward.sciberras@kingmakers.com
