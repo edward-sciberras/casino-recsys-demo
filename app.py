@@ -41,11 +41,11 @@ if st.session_state["authentication_status"]:
         data = json.load(f)
 
     # Load the CSV data
-    csv_path = 'eda_cleaned_data.csv'
+    csv_path = 'demo-simple-data.csv'
     df = pd.read_csv(csv_path)
 
     # Replace null values with medians
-    columns_to_fill = ['RTP', 'Max Win', 'Betways', 'Volatility', 'Hitrate']
+    columns_to_fill = ['RTP', 'Betways', 'Volatility', 'Hitrate']
 
     # Calculate medians for the columns, handling Betways separately
     medians = {}
@@ -62,15 +62,15 @@ if st.session_state["authentication_status"]:
         df[column].fillna(median, inplace=True)
 
     # Extract unique game names
-    game_names = list({item['GameName'] for item in data})
+    game_names = [item['GameName'] for item in data]
 
     # Define color map for similar features
     color_map = {
         'RTP': 'background-color: yellow',
-        'Max Win': 'background-color: lightblue',
         'Betways': 'background-color: lightgreen',
         'Volatility': 'background-color: orange',
-        'Hitrate': 'background-color: lightpink'
+        'Hitrate': 'background-color: lightpink',
+        'Other': 'background-color: lightcoral'
     }
 
     # Streamlit app
@@ -117,13 +117,13 @@ if st.session_state["authentication_status"]:
         styles = pd.Series('', index=s.index)
         for feature in features:
             if feature in s.index:
-                styles[feature] = color_map.get(feature, '')
+                styles[feature] = color_map.get(feature, 'background-color: lightcoral')
         return styles
 
     # Display the dataframe with the selected game's row with highlighted features
     st.subheader("Selected Game Details")
     if not selected_game_row.empty:
-        selected_game_styled = selected_game_row.style.apply(highlight_features, features=similar_features, axis=1)
+        selected_game_styled = selected_game_row.style.apply(highlight_features, features=[item for sublist in similar_features for item in sublist], axis=1)
         st.dataframe(selected_game_styled)
 
     # Filter the CSV dataframe for the recommendation IDs
@@ -134,9 +134,10 @@ if st.session_state["authentication_status"]:
         styles = pd.Series('', index=row.index)
         if row['GameID'] in ids:
             idx = ids.index(row['GameID'])
-            feature = sim_feats[idx]
-            if feature in row.index:
-                styles[feature] = color_map.get(feature, '')
+            features = sim_feats[idx]
+            for feature in features:
+                if feature in row.index:
+                    styles[feature] = color_map.get(feature, 'background-color: lightcoral')
         return styles
 
     # Display the recommendations dataframe with highlighted features
