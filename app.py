@@ -45,7 +45,7 @@ if st.session_state["authentication_status"]:
     df = pd.read_csv(csv_path)
 
     # Replace null values with medians
-    columns_to_fill = ['RTP', 'Betways', 'Volatility', 'Hitrate']
+    columns_to_fill = ['RTP', 'Betways']
 
     # Calculate medians for the columns, handling Betways separately
     medians = {}
@@ -56,7 +56,7 @@ if st.session_state["authentication_status"]:
             medians[column] = numeric_values.median()
         else:
             medians[column] = df[column].median()
-
+ 
     # Fill the null values with the calculated medians
     for column, median in medians.items():
         df[column].fillna(median, inplace=True)
