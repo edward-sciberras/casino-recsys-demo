@@ -60,6 +60,9 @@ if st.session_state["authentication_status"]:
     # Fill the null values with the calculated medians
     for column, median in medians.items():
         df[column].fillna(median, inplace=True)
+        
+    df['RTP'] = df['RTP'] * 100
+    df['RTP'] = df['RTP'].map('{:.1f}%'.format)
 
     # Extract unique game names
     game_names = [item['GameName'] for item in data]
