@@ -102,6 +102,14 @@ if st.session_state["authentication_status"]:
                 if feature in row.index:
                     styles[feature] = color_map.get(feature, 'background-color: lightcoral')
         return styles
+    
+    def resize_image(img, target_size=(376, 250)):
+        """Resize image to target size while maintaining aspect ratio"""
+        img.thumbnail(target_size)
+        background = Image.new('RGBA', target_size, (255, 255, 255, 0))
+        offset = ((target_size[0] - img.size[0]) // 2, (target_size[1] - img.size[1]) // 2)
+        background.paste(img, offset)
+        return background
 
     # Streamlit app
     st.title("Game Recommendations")
@@ -142,7 +150,8 @@ if st.session_state["authentication_status"]:
                         if url:
                             response = requests.get("https:" + url)
                             img = Image.open(BytesIO(response.content))
-                            row_cols[j].image(img, use_column_width=True)
+                            img_resized = resize_image(img)
+                            row_cols[j].image(img_resized, use_column_width=True)
                             
         add_vertical_space(3)
 
