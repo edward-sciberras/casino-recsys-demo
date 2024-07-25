@@ -6,6 +6,14 @@ from PIL import Image
 from io import BytesIO
 import streamlit_authenticator as stauth
     
+# Set page to wide mode
+st.set_page_config(layout="wide")
+
+# Function to add vertical space
+def add_vertical_space(num_lines=1):
+    for _ in range(num_lines):
+        st.markdown('<br>', unsafe_allow_html=True)
+    
 # Access the secrets via the st.secrets dict
 credentials = {
     "usernames": {
@@ -75,46 +83,7 @@ if st.session_state["authentication_status"]:
         'Hitrate': 'background-color: lightpink',
         'Other': 'background-color: lightcoral'
     }
-
-    # Streamlit app
-    st.title("Game Recommendations")
-
-    # Dropdown menu for game selection
-    selected_game = st.selectbox("Select a Game", game_names)
-
-    # Find the first instance of the selected game and get its image URLs
-    selected_game_data = None
-    image_urls = []
-    recommendation_ids = []
-    similar_features = []
-    for game in data:
-        if game['GameName'] == selected_game:
-            selected_game_data = game
-            image_urls = game['RecommendationsURLs'][:14]  # Get the first 14 URLs
-            recommendation_ids = game['RecommendationsIDs']
-            similar_features = game['SimilarFeatures']
-            break
-
-    # Display images in a 5x3 grid
-    if image_urls:
-        rows = 3
-        cols = 5
-        for i in range(rows):
-            row_cols = st.columns(cols)
-            for j in range(cols):
-                img_index = i * cols + j
-                if img_index < len(image_urls):
-                    url = image_urls[img_index]
-                    if url:  # Check if the URL is not empty
-                        response = requests.get("https:" + url)
-                        img = Image.open(BytesIO(response.content))
-                        row_cols[j].image(img, use_column_width=True)
-    else:
-        st.write("No images available for this game.")
-
-    # Filter the CSV dataframe for the selected game
-    selected_game_row = df[df['Name'] == selected_game]
-
+    
     # Function to highlight similar features in the selected game row
     def highlight_features(s, features):
         styles = pd.Series('', index=s.index)
@@ -122,15 +91,6 @@ if st.session_state["authentication_status"]:
             if feature in s.index:
                 styles[feature] = color_map.get(feature, 'background-color: lightcoral')
         return styles
-
-    # Display the dataframe with the selected game's row with highlighted features
-    st.subheader("Selected Game Details")
-    if not selected_game_row.empty:
-        selected_game_styled = selected_game_row.style.apply(highlight_features, features=[item for sublist in similar_features for item in sublist], axis=1)
-        st.dataframe(selected_game_styled)
-
-    # Filter the CSV dataframe for the recommendation IDs
-    recommendation_rows = df[df['GameID'].isin(recommendation_ids)]
 
     # Function to highlight recommendation rows
     def highlight_recommendations(row, ids, sim_feats):
@@ -143,16 +103,84 @@ if st.session_state["authentication_status"]:
                     styles[feature] = color_map.get(feature, 'background-color: lightcoral')
         return styles
 
-    # Display the recommendations dataframe with highlighted features
-    st.subheader("Recommendations and Features")
-    if not recommendation_rows.empty:
-        recommendation_styled = recommendation_rows.style.apply(
-            highlight_recommendations,
-            ids=recommendation_ids,
-            sim_feats=similar_features,
-            axis=1
-        )
-        st.dataframe(recommendation_styled)
+    # Streamlit app
+    st.title("Game Recommendations")
+
+    # Dropdown menu for game selection
+    selected_game = st.selectbox("Select a Game", game_names)
+    
+    # Find the selected game data
+    selected_game_data = next((game for game in data if game['GameName'] == selected_game), None)
+
+    if selected_game_data:
+        # Create two columns: one for the selected game, one for recommendations
+        col1, col2 = st.columns([1, 2])
+
+        with col1:
+            # Display the selected game image
+            st.subheader("Selected Game")
+            selected_game_url = selected_game_data.get('GameImageURL')
+            if selected_game_url:
+                response = requests.get("https:" + selected_game_url)
+                img = Image.open(BytesIO(response.content))
+                st.image(img, use_column_width=True)
+            else:
+                st.write("No image available for this game.")
+
+        with col2:
+            st.subheader("Recommendations")
+            # Display recommendations in a 5x3 grid
+            image_urls = selected_game_data.get('RecommendationsURLs', [])[:14]
+            rows = 3
+            cols = 5
+            for i in range(rows):
+                row_cols = st.columns(cols)
+                for j in range(cols):
+                    img_index = i * cols + j
+                    if img_index < len(image_urls):
+                        url = image_urls[img_index]
+                        if url:
+                            response = requests.get("https:" + url)
+                            img = Image.open(BytesIO(response.content))
+                            row_cols[j].image(img, use_column_width=True)
+                            
+        add_vertical_space(3)
+
+        # Display the dataframe with the selected game's row with highlighted features
+        st.subheader("Selected Game Details")
+        selected_game_row = df[df['Name'] == selected_game].drop(columns=['GameID'])
+        if not selected_game_row.empty:
+            selected_game_styled = selected_game_row.style.apply(highlight_features, features=[item for sublist in selected_game_data['SimilarFeatures'] for item in sublist], axis=1)
+            st.dataframe(selected_game_styled, hide_index=True)
+
+        # Display the recommendations dataframe with highlighted features
+        st.subheader("Recommendations and Features")
+        recommendation_ids = selected_game_data.get('RecommendationsIDs', [])
+        recommendation_rows = df[df['GameID'].isin(recommendation_ids)]
+        if not recommendation_rows.empty:
+            # Create a categorical column based on the order of RecommendationsIDs
+            recommendation_rows['order'] = pd.Categorical(
+                recommendation_rows['GameID'], 
+                categories=recommendation_ids, 
+                ordered=True
+            )
+            
+            # Sort the dataframe based on this new column
+            recommendation_rows = recommendation_rows.sort_values('order')
+            
+            recommendation_styled = recommendation_rows.style.apply(
+                highlight_recommendations,
+                ids=recommendation_ids,
+                sim_feats=selected_game_data['SimilarFeatures'],
+                axis=1
+            )
+        height = len(recommendation_rows) * 35 + 38
+        st.dataframe(
+                recommendation_styled,
+                hide_index=True,
+                height=height,
+                column_config={"GameID": None, "order": None}  # Hide both GameID and order columns
+            )
 elif st.session_state["authentication_status"] is False:
     st.error('Username/password is incorrect')
 elif st.session_state["authentication_status"] is None:

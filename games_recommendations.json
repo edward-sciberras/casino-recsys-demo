@@ -1,6 +1,7 @@
 [
     {
         "GameName": "Aviator",
+        "GameImageURL": "//static.everymatrix.com/cms2/base/_casino/F/F39B48BF32140961D7FE02CE44A61836.png",
         "RecommendationsIDs": [
             "em:57349",
             "em:52572",
@@ -28,7 +29,7 @@
             "//static.everymatrix.com/cms2/base/_casino/6/6350ECFCE3F37FA773A260FC296D38DB.jpg",
             "//static.everymatrix.com/cms2/unique/_casino/0/0DCE07332A331D60929E5B345FC3267F.jpeg",
             "//static.everymatrix.com/cms2/base/_casino/6/6633743492C25D8A012C80B28A9590E2.jpg",
-            "",
+            "//img.casinomentor.com/game_thumbnail/onlyplay/fighter-slot-onlyplay.jpg",
             "//static.everymatrix.com/cms2/base/_casino/0/03317D02C251477ED3D81FDFC3C3B86B.png"
         ],
         "SimilarFeatures": [
@@ -45,7 +46,6 @@
                 "Betways"
             ],
             [
-                "Betways",
                 "Hitrate",
                 "Volatility"
             ],
@@ -109,123 +109,145 @@
         ]
     },
     {
-        "GameName": "Fruity Megaways",
+        "GameName": "Big Bass Bonanza Megaways",
+        "GameImageURL": "//static.everymatrix.com/cms2/unique/_casino/0/00773B506F1BD43BF8D22FB33D67FC6B.jpeg",
         "RecommendationsIDs": [
-            "em:60634",
-            "em:39818",
-            "em:60551",
-            "em:56731",
-            "em:36344",
-            "em:41125",
-            "em:48936",
-            "em:53480",
-            "em:61968",
-            "em:63094",
-            "em:57596",
-            "em:36807",
-            "em:35663"
+            "em:39396",
+            "em:30737",
+            "em:43578",
+            "em:37051",
+            "em:58913",
+            "em:62437",
+            "em:37927",
+            "em:60459",
+            "em:60083",
+            "em:62119",
+            "em:59212",
+            "em:60253",
+            "em:38776"
         ],
         "RecommendationsURLs": [
-            "//static.everymatrix.com/cms2/base/_casino/8/806C885104042282448BF5E508F1AFA8.jpg",
-            "//static.everymatrix.com/cms2/unique/_casino/1/141BEF4668596C22F2A0E7A18B1117B4.jpeg",
-            "//static.everymatrix.com/cms2/base/_casino/C/CF02CF8C3AF04B9C248B4EFC3EB138C1.jpg",
-            "//static.everymatrix.com/cms2/unique/_casino/A/A7096CE324C3F9E91A0703253759EC58.jpeg",
-            "//static.everymatrix.com/cms2/unique/_casino/B/B8160F5DBDEF61465ED70EB10BAFE43F.jpeg",
-            "//static.everymatrix.com/cms2/unique/_casino/2/2A4E395940DE99D8E04E2E8F2A54F17F.jpeg",
-            "//static.everymatrix.com/cms2/base/_casino/5/5817E08F496811CF086836B93D92D0EB.jpg",
-            "//static.everymatrix.com/cms2/unique/_casino/1/1BEE848C77585073C4ECF6223345903C.jpeg",
-            "//static.everymatrix.com/cms2/base/_casino/6/643B76F7D465B029AED519C0DB192C7A.jpg",
-            "//static.everymatrix.com/cms2/base/_casino/9/910AC0AC010DA8415731E9568BF919B8.jpg",
-            "//static.everymatrix.com/cms2/base/_casino/8/86F9510FD3ECED541E2BE634AFCA45E4.jpg",
-            "//static.everymatrix.com/cms2/base/_casino/6/6544A5317757927C391F4E20243B7BB1.jpg",
-            "//static.everymatrix.com/cms2/base/_casino/0/0C6F98996FF7B5019030ACAF6CE63113.jpg"
+            "//static.everymatrix.com/cms2/base/_casino/1/17EC77E03746616194851A3635EF045D.jpg",
+            "//static.everymatrix.com/cms2/unique/_casino/1/111EA3DE569F78CF7EDC103DFFF2F231.optimized.png",
+            "//static.everymatrix.com/cms2/unique/_casino/7/75D3996B1067D21A120161009F2A70CC.jpeg",
+            "//static.everymatrix.com/cms2/base/_casino/3/386BC3AF5992F3A9E330AEFDD231D00F.jpg",
+            "//static.everymatrix.com/cms2/base/_casino/3/374B39BA34DEA5A93A371A41E1A0FF53.jpg",
+            "//static.everymatrix.com/cms2/base/_casino/9/96BFEF8B5531105B8802B07AAE4267D9.jpg",
+            "//static.everymatrix.com/cms2/unique/_casino/9/9A0847A5FE3507DA6CF48865848A15D8.jpeg",
+            "//static.everymatrix.com/cms2/base/_casino/D/D56B990F30790902D8C994A8F45532BB.jpg",
+            "//static.everymatrix.com/cms2/base/_casino/7/7147931B11A2FED11F0571BA5E49018B.jpg",
+            "//static.everymatrix.com/cms2/base/_casino/9/9A259E375FBD271E74266542B79A2741.jpg",
+            "//static.everymatrix.com/cms2/base/_casino/2/242BF8CA3AC55F668096F2D6188DBE60.jpg",
+            "//static.everymatrix.com/cms2/base/_casino/8/86E23EA57D490A98B0F169A306AB6003.jpg",
+            "//static.everymatrix.com/cms2/unique/_casino/5/566163CD1D151896175F84E8353A14A2.jpeg"
         ],
         "SimilarFeatures": [
             [
-                "Betways",
                 "Type_VIDEOSLOTS",
-                "Provider_OneXTwoGaming",
-                "Hitrate",
-                "Betways"
-            ],
-            [
-                "Betways",
-                "Type_VIDEOSLOTS",
-                "Betways"
-            ],
-            [
-                "Betways",
-                "Type_VIDEOSLOTS",
-                "Hitrate",
-                "Betways"
-            ],
-            [
-                "Betways",
-                "Type_VIDEOSLOTS",
-                "Betways"
-            ],
-            [
-                "Betways",
-                "Type_VIDEOSLOTS",
-                "Features_Megaways",
-                "Hitrate",
-                "Volatility",
-                "Betways"
+                "Features_Free Spins",
+                "Features_Wild Symbol",
+                "Features_Multiplier",
+                "Features_Scatter Symbol",
+                "Hitrate"
             ],
             [
                 "Type_VIDEOSLOTS",
-                "Hitrate",
-                "Volatility",
-                "Betways"
+                "Provider_PragmaticPlay",
+                "Features_Free Spins",
+                "Features_Wild Symbol",
+                "Features_Multiplier",
+                "Volatility"
             ],
             [
-                "Betways",
+                "RTP",
                 "Type_VIDEOSLOTS",
-                "Provider_OneXTwoGaming",
-                "Features_Megaways",
-                "Betways"
-            ],
-            [
-                "Betways",
-                "Type_VIDEOSLOTS",
-                "Betways"
-            ],
-            [
-                "Type_VIDEOSLOTS",
-                "Provider_OneXTwoGaming",
-                "Features_Megaways",
-                "Hitrate",
-                "Betways"
-            ],
-            [
-                "Betways",
-                "Type_VIDEOSLOTS",
-                "Features_Megaways",
-                "Hitrate",
-                "Volatility",
-                "Betways"
-            ],
-            [
-                "Type_VIDEOSLOTS",
-                "Provider_OneXTwoGaming",
+                "Provider_PragmaticPlay",
+                "Features_Scatter Symbol",
+                "Themes_Fishing",
                 "Hitrate",
                 "Volatility"
             ],
             [
                 "Type_VIDEOSLOTS",
-                "Themes_Fruits",
-                "Hitrate",
+                "Features_Free Spins",
+                "Features_Wild Symbol",
+                "Features_Multiplier",
+                "Features_Scatter Symbol"
+            ],
+            [
+                "Type_VIDEOSLOTS",
+                "Provider_PragmaticPlay",
+                "Features_Wild Symbol",
+                "Features_Scatter Symbol",
                 "Volatility"
             ],
             [
                 "Type_VIDEOSLOTS",
+                "Features_Free Spins",
+                "Features_Multiplier",
+                "Features_Scatter Symbol",
                 "Hitrate",
+                "Volatility"
+            ],
+            [
+                "RTP",
+                "Type_VIDEOSLOTS",
+                "Provider_PragmaticPlay",
+                "Features_Free Spins",
+                "Themes_Fishing",
+                "Hitrate",
+                "Volatility"
+            ],
+            [
+                "RTP",
+                "Type_VIDEOSLOTS",
+                "Provider_PragmaticPlay",
+                "Features_Wild Symbol",
+                "Features_Scatter Symbol",
+                "Hitrate"
+            ],
+            [
+                "Type_VIDEOSLOTS",
+                "Provider_PragmaticPlay",
+                "Features_Free Spins",
+                "Features_Multiplier",
+                "Features_Scatter Symbol",
+                "Volatility"
+            ],
+            [
+                "Type_VIDEOSLOTS",
+                "Features_Wild Symbol",
+                "Features_Multiplier"
+            ],
+            [
+                "Type_VIDEOSLOTS",
+                "Provider_PragmaticPlay",
+                "Features_Free Spins",
+                "Features_Wild Symbol",
+                "Features_Scatter Symbol",
+                "Hitrate"
+            ],
+            [
+                "Type_VIDEOSLOTS",
+                "Provider_PragmaticPlay",
+                "Features_Free Spins",
+                "Features_Wild Symbol",
+                "Features_Multiplier",
+                "Features_Scatter Symbol",
+                "Volatility"
+            ],
+            [
+                "Type_VIDEOSLOTS",
+                "Provider_PragmaticPlay",
+                "Features_Wild Symbol",
+                "Features_Multiplier",
                 "Volatility"
             ]
         ]
     },
     {
         "GameName": "Festival of Fortune",
+        "GameImageURL": "//static.everymatrix.com/cms2/base/_casino/3/386BC3AF5992F3A9E330AEFDD231D00F.jpg",
         "RecommendationsIDs": [
             "em:37048",
             "em:39396",
@@ -377,143 +399,8 @@
         ]
     },
     {
-        "GameName": "Big Bass Bonanza Megaways",
-        "RecommendationsIDs": [
-            "em:39396",
-            "em:30737",
-            "em:43578",
-            "em:37051",
-            "em:58913",
-            "em:62437",
-            "em:37927",
-            "em:60459",
-            "em:60083",
-            "em:62119",
-            "em:59212",
-            "em:60253",
-            "em:38776"
-        ],
-        "RecommendationsURLs": [
-            "//static.everymatrix.com/cms2/base/_casino/1/17EC77E03746616194851A3635EF045D.jpg",
-            "//static.everymatrix.com/cms2/unique/_casino/1/111EA3DE569F78CF7EDC103DFFF2F231.optimized.png",
-            "//static.everymatrix.com/cms2/unique/_casino/7/75D3996B1067D21A120161009F2A70CC.jpeg",
-            "//static.everymatrix.com/cms2/base/_casino/3/386BC3AF5992F3A9E330AEFDD231D00F.jpg",
-            "//static.everymatrix.com/cms2/base/_casino/3/374B39BA34DEA5A93A371A41E1A0FF53.jpg",
-            "//static.everymatrix.com/cms2/base/_casino/9/96BFEF8B5531105B8802B07AAE4267D9.jpg",
-            "//static.everymatrix.com/cms2/unique/_casino/9/9A0847A5FE3507DA6CF48865848A15D8.jpeg",
-            "//static.everymatrix.com/cms2/base/_casino/D/D56B990F30790902D8C994A8F45532BB.jpg",
-            "//static.everymatrix.com/cms2/base/_casino/7/7147931B11A2FED11F0571BA5E49018B.jpg",
-            "//static.everymatrix.com/cms2/base/_casino/9/9A259E375FBD271E74266542B79A2741.jpg",
-            "//static.everymatrix.com/cms2/base/_casino/2/242BF8CA3AC55F668096F2D6188DBE60.jpg",
-            "//static.everymatrix.com/cms2/base/_casino/8/86E23EA57D490A98B0F169A306AB6003.jpg",
-            "//static.everymatrix.com/cms2/unique/_casino/5/566163CD1D151896175F84E8353A14A2.jpeg"
-        ],
-        "SimilarFeatures": [
-            [
-                "Type_VIDEOSLOTS",
-                "Features_Free Spins",
-                "Features_Wild Symbol",
-                "Features_Multiplier",
-                "Features_Scatter Symbol",
-                "Hitrate"
-            ],
-            [
-                "Type_VIDEOSLOTS",
-                "Provider_PragmaticPlay",
-                "Features_Free Spins",
-                "Features_Wild Symbol",
-                "Features_Multiplier",
-                "Volatility"
-            ],
-            [
-                "RTP",
-                "Type_VIDEOSLOTS",
-                "Provider_PragmaticPlay",
-                "Features_Scatter Symbol",
-                "Themes_Fishing",
-                "Hitrate",
-                "Volatility"
-            ],
-            [
-                "Type_VIDEOSLOTS",
-                "Features_Free Spins",
-                "Features_Wild Symbol",
-                "Features_Multiplier",
-                "Features_Scatter Symbol"
-            ],
-            [
-                "Type_VIDEOSLOTS",
-                "Provider_PragmaticPlay",
-                "Features_Wild Symbol",
-                "Features_Scatter Symbol",
-                "Volatility"
-            ],
-            [
-                "Type_VIDEOSLOTS",
-                "Features_Free Spins",
-                "Features_Multiplier",
-                "Features_Scatter Symbol",
-                "Hitrate",
-                "Volatility"
-            ],
-            [
-                "RTP",
-                "Type_VIDEOSLOTS",
-                "Provider_PragmaticPlay",
-                "Features_Free Spins",
-                "Themes_Fishing",
-                "Hitrate",
-                "Volatility"
-            ],
-            [
-                "RTP",
-                "Type_VIDEOSLOTS",
-                "Provider_PragmaticPlay",
-                "Features_Wild Symbol",
-                "Features_Scatter Symbol",
-                "Hitrate"
-            ],
-            [
-                "Type_VIDEOSLOTS",
-                "Provider_PragmaticPlay",
-                "Features_Free Spins",
-                "Features_Multiplier",
-                "Features_Scatter Symbol",
-                "Volatility"
-            ],
-            [
-                "Type_VIDEOSLOTS",
-                "Features_Wild Symbol",
-                "Features_Multiplier"
-            ],
-            [
-                "Type_VIDEOSLOTS",
-                "Provider_PragmaticPlay",
-                "Features_Free Spins",
-                "Features_Wild Symbol",
-                "Features_Scatter Symbol",
-                "Hitrate"
-            ],
-            [
-                "Type_VIDEOSLOTS",
-                "Provider_PragmaticPlay",
-                "Features_Free Spins",
-                "Features_Wild Symbol",
-                "Features_Multiplier",
-                "Features_Scatter Symbol",
-                "Volatility"
-            ],
-            [
-                "Type_VIDEOSLOTS",
-                "Provider_PragmaticPlay",
-                "Features_Wild Symbol",
-                "Features_Multiplier",
-                "Volatility"
-            ]
-        ]
-    },
-    {
         "GameName": "Big Bass Bonanza",
+        "GameImageURL": "//static.everymatrix.com/cms2/unique/_casino/9/9A0847A5FE3507DA6CF48865848A15D8.jpeg",
         "RecommendationsIDs": [
             "em:43578",
             "em:36817",
@@ -641,6 +528,7 @@
     },
     {
         "GameName": "African Fortune",
+        "GameImageURL": "//static.everymatrix.com/cms2/base/_casino/3/374ADB200C95EA38CC216FBD1A6F6FA7.jpg",
         "RecommendationsIDs": [
             "em:39625",
             "em:60118",
@@ -780,6 +668,7 @@
     },
     {
         "GameName": "Spaceman",
+        "GameImageURL": "//static.everymatrix.com/cms2/base/_casino/7/76E82CBE2089C030CE5BA669F827DCA3.jpg",
         "RecommendationsIDs": [
             "em:57349",
             "em:60384",
@@ -893,6 +782,7 @@
     },
     {
         "GameName": "Wild Wild Bass 3\u2122",
+        "GameImageURL": "//static.everymatrix.com/cms2/base/_casino/7/7492F7C7F8A44E459876BC1AB7365A07.jpg",
         "RecommendationsIDs": [
             "em:60253",
             "em:37051",
@@ -1035,6 +925,7 @@
     },
     {
         "GameName": "ZEUS",
+        "GameImageURL": "//static.everymatrix.com/cms2/base/_casino/1/157C0E725C98969FB5F4FDE23EB6A01F.jpg",
         "RecommendationsIDs": [
             "em:46406",
             "em:48406",
@@ -1167,6 +1058,7 @@
     },
     {
         "GameName": "Book of Adventure",
+        "GameImageURL": "//static.everymatrix.com/cms2/base/_casino/4/44A5B9BD1683796D791B390381C67569.png",
         "RecommendationsIDs": [
             "em:60094",
             "em:42355",
@@ -1295,6 +1187,7 @@
     },
     {
         "GameName": "888",
+        "GameImageURL": "//static.everymatrix.com/cms2/base/_casino/C/CDFDB346005878DA98EB3687EA3F8777.jpg",
         "RecommendationsIDs": [
             "em:34981",
             "em:36244",
@@ -1418,6 +1311,7 @@
     },
     {
         "GameName": "Dragon Flare",
+        "GameImageURL": "//static.everymatrix.com/cms2/base/_casino/8/81CCC60908D7A2C7B0C359C2422E68B3.jpg",
         "RecommendationsIDs": [
             "em:60802",
             "em:60800",
@@ -1532,127 +1426,8 @@
         ]
     },
     {
-        "GameName": "1 Million Fortunes Megaways",
-        "RecommendationsIDs": [
-            "em:56731",
-            "em:40161",
-            "em:37780",
-            "em:60634",
-            "em:56367",
-            "em:60777",
-            "em:61968",
-            "em:51422",
-            "em:60308",
-            "em:36497",
-            "em:57349",
-            "em:60085",
-            "em:51010"
-        ],
-        "RecommendationsURLs": [
-            "//static.everymatrix.com/cms2/unique/_casino/A/A7096CE324C3F9E91A0703253759EC58.jpeg",
-            "//static.everymatrix.com/cms2/unique/_casino/3/368BD12F00C7849771F8A8496233DF67.jpeg",
-            "//static.everymatrix.com/cms2/unique/_casino/1/13E360ACF1AB3654A0F299B79F81A7B3.jpg",
-            "//static.everymatrix.com/cms2/base/_casino/8/806C885104042282448BF5E508F1AFA8.jpg",
-            "//static.everymatrix.com/cms2/base/_casino/A/AC5613DAD48AB9E880E90773950FAAF4.jpg",
-            "//static.everymatrix.com/cms2/base/_casino/2/221F2DA0004B69ACC15F3DB6C28B7622.jpg",
-            "//static.everymatrix.com/cms2/base/_casino/6/643B76F7D465B029AED519C0DB192C7A.jpg",
-            "//static.everymatrix.com/cms2/base/_casino/A/A64B778C5E64C277D704A2BDD62D2BE7.jpg",
-            "//static.everymatrix.com/cms2/base/_casino/7/7F35077125FF987805B394A08634D41B.jpg",
-            "//static.everymatrix.com/cms2/base/_casino/1/11A96209238444E11E80DBE4717FF81B.jpg",
-            "//static.everymatrix.com/cms2/base/_casino/3/336EF594FF3F9D6501863D16F5A53FA3.jpg",
-            "//static.everymatrix.com/cms2/base/_casino/9/9F0504CC7735697E6454B4564DA925A2.jpg",
-            "//static.everymatrix.com/cms2/base/_casino/F/F0F661394DEB9ABB0CD367493FFE5CB3.jpg"
-        ],
-        "SimilarFeatures": [
-            [
-                "Betways",
-                "Type_VIDEOSLOTS",
-                "Volatility",
-                "Betways"
-            ],
-            [
-                "Betways",
-                "Type_VIDEOSLOTS",
-                "Volatility",
-                "Betways"
-            ],
-            [
-                "RTP",
-                "Betways",
-                "Type_VIDEOSLOTS",
-                "Provider_OneXTwoGaming",
-                "Features_Megaways",
-                "Betways"
-            ],
-            [
-                "Betways",
-                "Type_VIDEOSLOTS",
-                "Provider_OneXTwoGaming",
-                "Volatility",
-                "Betways"
-            ],
-            [
-                "Betways",
-                "Type_VIDEOSLOTS",
-                "Provider_OneXTwoGaming",
-                "Features_Megaways",
-                "Betways"
-            ],
-            [
-                "Betways",
-                "Type_VIDEOSLOTS",
-                "Provider_OneXTwoGaming",
-                "Volatility",
-                "Betways"
-            ],
-            [
-                "Type_VIDEOSLOTS",
-                "Provider_OneXTwoGaming",
-                "Features_Megaways",
-                "Volatility",
-                "Betways"
-            ],
-            [
-                "Type_VIDEOSLOTS",
-                "Features_Megaways",
-                "Volatility",
-                "Betways"
-            ],
-            [
-                "Type_VIDEOSLOTS",
-                "Volatility",
-                "Betways"
-            ],
-            [
-                "RTP",
-                "Type_VIDEOSLOTS",
-                "Provider_OneXTwoGaming",
-                "Features_Megaways",
-                "Hitrate",
-                "Volatility"
-            ],
-            [
-                "Type_VIDEOSLOTS",
-                "Provider_OneXTwoGaming",
-                "Hitrate",
-                "Volatility"
-            ],
-            [
-                "Type_VIDEOSLOTS",
-                "Provider_OneXTwoGaming",
-                "Themes_Classic",
-                "Volatility"
-            ],
-            [
-                "Type_VIDEOSLOTS",
-                "Hitrate",
-                "Volatility",
-                "Betways"
-            ]
-        ]
-    },
-    {
         "GameName": "1 Reel Buffalo",
+        "GameImageURL": "//static.everymatrix.com/cms2/base/_casino/C/C2D322CF75C0F4478F0058138F8531AD.jpg",
         "RecommendationsIDs": [
             "em:60309",
             "em:60118",
@@ -1783,6 +1558,7 @@
     },
     {
         "GameName": "1 Reel Elves",
+        "GameImageURL": "//static.everymatrix.com/cms2/base/_casino/0/0DB90A93553365F6C71E2B0CA527763F.jpg",
         "RecommendationsIDs": [
             "em:41132",
             "em:42355",
@@ -1907,6 +1683,7 @@
     },
     {
         "GameName": "Hot Hot Fruit",
+        "GameImageURL": "//static.everymatrix.com/cms2/base/_casino/E/E7F01EE92EF36B714766EB09385F5804.jpg",
         "RecommendationsIDs": [
             "em:17413",
             "em:39980",
@@ -2044,6 +1821,7 @@
     },
     {
         "GameName": "Clash of the Giants",
+        "GameImageURL": "//static.everymatrix.com/cms2/base/_casino/7/7F35077125FF987805B394A08634D41B.jpg",
         "RecommendationsIDs": [
             "em:51422",
             "em:61968",
@@ -2177,6 +1955,7 @@
     },
     {
         "GameName": "1 Reel Majestic King",
+        "GameImageURL": "//static.everymatrix.com/cms2/base/_casino/C/C7A558753130021BA31768E7C44C4D3D.jpg",
         "RecommendationsIDs": [
             "em:60309",
             "em:60118",
@@ -2319,6 +2098,7 @@
     },
     {
         "GameName": "Hey Sushi",
+        "GameImageURL": "//static.everymatrix.com/cms2/base/_casino/6/681BA831A09884834C0D25D9E31D73DB.jpg",
         "RecommendationsIDs": [
             "em:17133",
             "em:48120",
@@ -2456,6 +2236,7 @@
     },
     {
         "GameName": "Wild Moon Saloon",
+        "GameImageURL": "//static.everymatrix.com/cms2/base/_casino/E/E62CFDE4CD286048E00B3F7E63EEAFB7.jpg",
         "RecommendationsIDs": [
             "em:17480",
             "em:60085",
@@ -2588,6 +2369,7 @@
     },
     {
         "GameName": "Master of Fortune",
+        "GameImageURL": "//static.everymatrix.com/cms2/base/_casino/8/8CFBA7BB5F673222FE17C15971A82D8E.jpg",
         "RecommendationsIDs": [
             "em:60001",
             "em:60198",
@@ -2728,6 +2510,7 @@
     },
     {
         "GameName": "Fruit Party\u2122",
+        "GameImageURL": "//static.everymatrix.com/cms2/unique/_casino/0/04A37E7E30E1CCE9DE2055D844F2C0AC.jpeg",
         "RecommendationsIDs": [
             "em:39095",
             "em:43055",
@@ -2859,6 +2642,7 @@
     },
     {
         "GameName": "Gates of Olympus\u2122",
+        "GameImageURL": "//static.everymatrix.com/cms2/unique/_casino/8/8C5C691C5234CB1394F543700CF68791.jpeg",
         "RecommendationsIDs": [
             "em:31038",
             "em:60191",
@@ -3007,6 +2791,7 @@
     },
     {
         "GameName": "Brothers kingdom",
+        "GameImageURL": "//static.everymatrix.com/cms2/base/_casino/F/F34790E59B932AF38C509ABE448E5D50.jpg",
         "RecommendationsIDs": [
             "em:36834",
             "em:48406",
@@ -3130,6 +2915,7 @@
     },
     {
         "GameName": "Triple Panda",
+        "GameImageURL": "//static.everymatrix.com/cms2/base/_casino/2/2641F4EEB164DE10E9ADCFB2B5A10272.jpg",
         "RecommendationsIDs": [
             "em:36812",
             "em:14544",
@@ -3256,6 +3042,7 @@
     },
     {
         "GameName": "Chilli Heat",
+        "GameImageURL": "//static.everymatrix.com/cms2/unique/_casino/8/8A969EB12FA2305B26E031DD6BEA57C0.jpg",
         "RecommendationsIDs": [
             "em:38186",
             "em:36864",
@@ -3406,6 +3193,7 @@
     },
     {
         "GameName": "Royal Crown 2",
+        "GameImageURL": "//static.everymatrix.com/cms2/base/_casino/9/9FD00237698741D7B5ECCB686D30F42F.jpg",
         "RecommendationsIDs": [
             "em:39023",
             "em:41742",
@@ -3544,6 +3332,7 @@
     },
     {
         "GameName": "Wolf Fang - Eclipse",
+        "GameImageURL": "//static.everymatrix.com/cms2/base/_casino/5/572792479B1CEA1D91DF16F805C7D9AD.jpg",
         "RecommendationsIDs": [
             "em:17133",
             "em:41132",
@@ -3673,6 +3462,7 @@
     },
     {
         "GameName": "The Hand of Midas\u2122",
+        "GameImageURL": "//static.everymatrix.com/cms2/unique/_casino/5/566163CD1D151896175F84E8353A14A2.jpeg",
         "RecommendationsIDs": [
             "em:60083",
             "em:44949",
@@ -3814,6 +3604,7 @@
     },
     {
         "GameName": "Book of Myth",
+        "GameImageURL": "//static.everymatrix.com/cms2/base/_casino/4/48811B1026D602489EB1078DEBA6D115.jpg",
         "RecommendationsIDs": [
             "kr:600",
             "em:58970",
@@ -3935,6 +3726,7 @@
     },
     {
         "GameName": "Jewel Bang",
+        "GameImageURL": "//static.everymatrix.com/cms2/base/_casino/0/0089318C3A23F4F43B3BCA5945C21BEE.optimized.png",
         "RecommendationsIDs": [
             "em:60357",
             "em:17413",
@@ -4056,6 +3848,7 @@
     },
     {
         "GameName": "Fruits Mania",
+        "GameImageURL": "//static.everymatrix.com/cms2/base/_casino/D/D26AF51E76703CFEC0DA470C702666A0.jpg",
         "RecommendationsIDs": [
             "em:36834",
             "em:49951",
@@ -4200,6 +3993,7 @@
     },
     {
         "GameName": "Journey to the Wild",
+        "GameImageURL": "//static.everymatrix.com/cms2/base/_casino/3/34D2C3AC63D1D774CB7251FF219CA980.jpg",
         "RecommendationsIDs": [
             "em:37055",
             "em:49951",
@@ -4337,6 +4131,7 @@
     },
     {
         "GameName": "Sugar Party",
+        "GameImageURL": "//static.everymatrix.com/cms2/base/_casino/7/77271743DC3630DC76FC42423A5A446F.jpg",
         "RecommendationsIDs": [
             "em:45226",
             "em:44949",
@@ -4486,6 +4281,7 @@
     },
     {
         "GameName": "Madame Destiny Megaways",
+        "GameImageURL": "//static.everymatrix.com/cms2/unique/_casino/4/40AB2031A60E7CD131214C9D028C0F17.jpeg",
         "RecommendationsIDs": [
             "em:61968",
             "em:36344",
@@ -4624,6 +4420,7 @@
     },
     {
         "GameName": "Guardian of Prosperity",
+        "GameImageURL": "//static.everymatrix.com/cms2/base/_casino/A/AE33869A0F5E5242FBFE0850847D8D31.jpg",
         "RecommendationsIDs": [
             "em:37048",
             "em:45475",
@@ -4780,6 +4577,7 @@
     },
     {
         "GameName": "Serengeti Wilds",
+        "GameImageURL": "//static.everymatrix.com/cms2/base/_casino/3/35524E2396D33C1C8D1C263DB52C86DC.jpg",
         "RecommendationsIDs": [
             "em:17133",
             "em:56537",
@@ -4911,6 +4709,7 @@
     },
     {
         "GameName": "Bacon Banker",
+        "GameImageURL": "//static.everymatrix.com/cms2/unique/_casino/0/0BAC446B20893F60097C9E227C236B42.jpg",
         "RecommendationsIDs": [
             "em:48820",
             "em:60853",
@@ -5027,6 +4826,7 @@
     },
     {
         "GameName": "Cricket X",
+        "GameImageURL": "//static.everymatrix.com/cms2/base/_casino/3/398154C07FD4435A95659E38C5B357E3.jpg",
         "RecommendationsIDs": [
             "em:36809",
             "em:61668",
@@ -5131,6 +4931,7 @@
     },
     {
         "GameName": "Wilds Of Wall Street II",
+        "GameImageURL": "//static.everymatrix.com/cms2/base/_casino/6/6271FBEFE81A1311DA2C2F1401F5E6EA.jpg",
         "RecommendationsIDs": [
             "em:42355",
             "em:41132",
@@ -5262,6 +5063,7 @@
     },
     {
         "GameName": "Book of Cleopatra",
+        "GameImageURL": "//static.everymatrix.com/cms2/base/_casino/0/03317D02C251477ED3D81FDFC3C3B86B.png",
         "RecommendationsIDs": [
             "em:44354",
             "em:60001",
@@ -5395,6 +5197,7 @@
     },
     {
         "GameName": "Surging 7s",
+        "GameImageURL": "//static.everymatrix.com/cms2/base/_casino/2/27B22888F7B0CB92925A02E6D3F9F276.jpg",
         "RecommendationsIDs": [
             "em:17426",
             "em:55091",
@@ -5523,6 +5326,7 @@
     },
     {
         "GameName": "Sugar Supreme Powernudge\u2122",
+        "GameImageURL": "//static.everymatrix.com/cms2/base/_casino/7/7147931B11A2FED11F0571BA5E49018B.jpg",
         "RecommendationsIDs": [
             "em:60253",
             "em:44949",
@@ -5663,6 +5467,7 @@
     },
     {
         "GameName": "Book of Jones Golden Book\u2122",
+        "GameImageURL": "//static.everymatrix.com/cms2/base/_casino/4/48737F89A0ACB36805AD60E83E182938.jpg",
         "RecommendationsIDs": [
             "kr:706",
             "kr:719",
@@ -5802,6 +5607,7 @@
     },
     {
         "GameName": "Queens of Africa",
+        "GameImageURL": "//static.everymatrix.com/cms2/base/_casino/D/D4E0967DFCF638B1B70E169239FBD994.jpg",
         "RecommendationsIDs": [
             "em:41132",
             "em:37522",
@@ -5927,6 +5733,7 @@
     },
     {
         "GameName": "Joker Fortune Blitz",
+        "GameImageURL": "//static.everymatrix.com/cms2/base/_casino/2/2168A7A715C8F5B31CB3A6D6EBCF15E1.jpg",
         "RecommendationsIDs": [
             "em:60375",
             "em:60001",
@@ -6066,6 +5873,7 @@
     },
     {
         "GameName": "Mustang Gold\u2122",
+        "GameImageURL": "//static.everymatrix.com/cms2/unique/_casino/E/E2345EB3D5D0348D0482D0344AFD9DD6.optimized.png",
         "RecommendationsIDs": [
             "em:56537",
             "em:58970",
@@ -6202,6 +6010,7 @@
     },
     {
         "GameName": "Megaways Jack Frost",
+        "GameImageURL": "//static.everymatrix.com/cms2/base/_casino/8/806C885104042282448BF5E508F1AFA8.jpg",
         "RecommendationsIDs": [
             "em:60551",
             "em:37780",
@@ -6331,6 +6140,7 @@
     },
     {
         "GameName": "The Dog House",
+        "GameImageURL": "//static.everymatrix.com/cms2/unique/_casino/1/111EA3DE569F78CF7EDC103DFFF2F231.optimized.png",
         "RecommendationsIDs": [
             "em:60253",
             "em:60083",
@@ -6482,6 +6292,7 @@
     },
     {
         "GameName": "Vegas Hot Spots",
+        "GameImageURL": "//static.everymatrix.com/cms2/base/_casino/6/6D5C81A20D403E181CFE7EC69A17B73D.jpg",
         "RecommendationsIDs": [
             "em:60309",
             "em:60036",
@@ -6596,6 +6407,7 @@
     },
     {
         "GameName": "Machina Megaways",
+        "GameImageURL": "//static.everymatrix.com/cms2/base/_casino/8/83156F5F3882BBE2497284BF289ECC32.jpg",
         "RecommendationsIDs": [
             "em:48219",
             "em:36909",
@@ -6742,6 +6554,7 @@
     },
     {
         "GameName": "1 Reel Fruits",
+        "GameImageURL": "//static.everymatrix.com/cms2/base/_casino/2/2FF66464D37564204475808F4937856F.jpg",
         "RecommendationsIDs": [
             "em:36244",
             "em:62119",
@@ -6864,6 +6677,7 @@
     },
     {
         "GameName": "Foxy Hot 20",
+        "GameImageURL": "//static.everymatrix.com/cms2/base/_casino/9/9A259E375FBD271E74266542B79A2741.jpg",
         "RecommendationsIDs": [
             "em:48718",
             "em:50336",
@@ -6990,6 +6804,7 @@
     },
     {
         "GameName": "Legacy of Kong",
+        "GameImageURL": "//static.everymatrix.com/cms2/base/_casino/F/F0F661394DEB9ABB0CD367493FFE5CB3.jpg",
         "RecommendationsIDs": [
             "em:51422",
             "em:60777",
@@ -7119,6 +6934,7 @@
     },
     {
         "GameName": "9 Blazing Cashpots",
+        "GameImageURL": "//static.everymatrix.com/cms2/base/_casino/A/AE47B60CF0BB1E0C47689BAD4CA69490.jpg",
         "RecommendationsIDs": [
             "em:57625",
             "em:60085",
@@ -7247,6 +7063,7 @@
     },
     {
         "GameName": "Divine Gongs",
+        "GameImageURL": "//static.everymatrix.com/cms2/base/_casino/6/6502A7C173C2262BD9C41336A283AA51.jpg",
         "RecommendationsIDs": [
             "em:55948",
             "em:35663",
@@ -7360,6 +7177,7 @@
     },
     {
         "GameName": "Mega 7",
+        "GameImageURL": "//static.everymatrix.com/cms2/base/_casino/6/6544A5317757927C391F4E20243B7BB1.jpg",
         "RecommendationsIDs": [
             "em:35663",
             "em:61668",
@@ -7473,6 +7291,7 @@
     },
     {
         "GameName": "Finnegan's Banditos",
+        "GameImageURL": "//static.everymatrix.com/cms2/base/_casino/7/7F7BFC404AA1AE54E5869B88A2BC34E3.jpg",
         "RecommendationsIDs": [
             "em:53098",
             "em:36817",
@@ -7606,6 +7425,7 @@
     },
     {
         "GameName": "Multi Joker Popwins\u2122",
+        "GameImageURL": "//static.everymatrix.com/cms2/base/_casino/1/19FEBD5489618901F64D4F6DB27C1E25.jpg",
         "RecommendationsIDs": [
             "em:44354",
             "em:51205",
@@ -7739,6 +7559,7 @@
     },
     {
         "GameName": "Lady Lava Minimax",
+        "GameImageURL": "//static.everymatrix.com/cms2/base/_casino/8/8F059DFDC6A9265B200D32EE074C1E92.jpg",
         "RecommendationsIDs": [
             "em:62033",
             "em:60085",
@@ -7861,6 +7682,7 @@
     },
     {
         "GameName": "Zombie Party",
+        "GameImageURL": "//static.everymatrix.com/cms2/base/_casino/1/18374807D21D1EFF2CA29A680036BD7F.jpg",
         "RecommendationsIDs": [
             "em:40110",
             "em:31038",
@@ -7983,6 +7805,7 @@
     },
     {
         "GameName": "Wolf Fang - Iron Wolf",
+        "GameImageURL": "//static.everymatrix.com/cms2/base/_casino/E/E267CA0A771954F43F6A0F203730FDF6.jpg",
         "RecommendationsIDs": [
             "em:61668",
             "em:35663",
@@ -8095,6 +7918,7 @@
     },
     {
         "GameName": "The Dog House Megaways\u2122",
+        "GameImageURL": "//static.everymatrix.com/cms2/unique/_casino/B/B8160F5DBDEF61465ED70EB10BAFE43F.jpeg",
         "RecommendationsIDs": [
             "em:37780",
             "em:56731",
@@ -8242,6 +8066,7 @@
     },
     {
         "GameName": "Blood Burst",
+        "GameImageURL": "//static.everymatrix.com/cms2/base/_casino/7/77F7A5AE145DCE8793E1E9DC0F9F7A34.jpg",
         "RecommendationsIDs": [
             "em:60803",
             "em:60793",
@@ -8355,6 +8180,7 @@
     },
     {
         "GameName": "Zeus vs Hades - Gods of War\u2122",
+        "GameImageURL": "//static.everymatrix.com/cms2/unique/_casino/7/79A624F69FBD47A4D5D67F0ADAC9A874.jpeg",
         "RecommendationsIDs": [
             "em:58092",
             "em:57855",
@@ -8480,6 +8306,7 @@
     },
     {
         "GameName": "Timber Stacks\u2122",
+        "GameImageURL": "//static.everymatrix.com/cms2/base/_casino/4/479D5DF970DF3F2BF83E1E351FD2948E.jpg",
         "RecommendationsIDs": [
             "em:60036",
             "em:30737",
@@ -8595,6 +8422,7 @@
     },
     {
         "GameName": "Twilight Princess\u2122",
+        "GameImageURL": "//static.everymatrix.com/cms2/base/_casino/2/242BF8CA3AC55F668096F2D6188DBE60.jpg",
         "RecommendationsIDs": [
             "em:60459",
             "em:57855",
@@ -8742,6 +8570,7 @@
     },
     {
         "GameName": "Pub Kings\u2122",
+        "GameImageURL": "//static.everymatrix.com/cms2/unique/_casino/5/57629018504A60E913F04210293171C4.jpeg",
         "RecommendationsIDs": [
             "em:57625",
             "em:56537",
@@ -8873,6 +8702,7 @@
     },
     {
         "GameName": "Laughing Buddha",
+        "GameImageURL": "//static.everymatrix.com/cms2/base/_casino/A/A0AA5CA0D4CF3DAAF314D97A78DDE8FF.jpg",
         "RecommendationsIDs": [
             "em:59753",
             "em:49951",
@@ -9003,6 +8833,7 @@
     },
     {
         "GameName": "JetX",
+        "GameImageURL": "//static.everymatrix.com/cms2/base/_casino/D/D80A8F0F0DBDFB9ECFB4FEC4EF48DB86.jpg",
         "RecommendationsIDs": [
             "em:57349",
             "em:43055",
@@ -9109,6 +8940,7 @@
     },
     {
         "GameName": "Majestic Wild Buffalo",
+        "GameImageURL": "//static.everymatrix.com/cms2/base/_casino/3/38BCE0DAC00E5A33C405288B7C5E82B9.jpg",
         "RecommendationsIDs": [
             "kr:25011",
             "em:60118",
@@ -9238,6 +9070,7 @@
     },
     {
         "GameName": "O Yeah!",
+        "GameImageURL": "//static.everymatrix.com/cms2/base/_casino/1/17EC77E03746616194851A3635EF045D.jpg",
         "RecommendationsIDs": [
             "em:37052",
             "em:41742",
@@ -9386,6 +9219,7 @@
     },
     {
         "GameName": "Vegas Time!",
+        "GameImageURL": "//static.everymatrix.com/cms2/base/_casino/0/017DDA424A775F5C0213C3FDDC2762EE.jpg",
         "RecommendationsIDs": [
             "em:53081",
             "em:60094",
@@ -9503,6 +9337,7 @@
     },
     {
         "GameName": "Aztec Temple",
+        "GameImageURL": "//static.everymatrix.com/cms2/base/_casino/1/1E8AD12C334F970744218C41045983A2.png",
         "RecommendationsIDs": [
             "em:53081",
             "em:15337",
@@ -9621,6 +9456,7 @@
     },
     {
         "GameName": "Sexy Vegas",
+        "GameImageURL": "//static.everymatrix.com/cms2/base/_casino/C/C226EA095ACF088BF27AECA347142DF1.jpg",
         "RecommendationsIDs": [
             "em:49951",
             "em:48406",
@@ -9758,6 +9594,7 @@
     },
     {
         "GameName": "Dragon Gate",
+        "GameImageURL": "//static.everymatrix.com/cms2/base/_casino/B/B99032F4CB0B373BB7A878C6FB2CDFB3.jpg",
         "RecommendationsIDs": [
             "em:35659",
             "em:39351",
@@ -9916,6 +9753,7 @@
     },
     {
         "GameName": "Fruit Hot Bonanza",
+        "GameImageURL": "//static.everymatrix.com/cms2/base/_casino/4/464517A64613F3EFF59EB3E125EF7BE9.jpg",
         "RecommendationsIDs": [
             "em:54835",
             "em:41742",
@@ -10052,6 +9890,7 @@
     },
     {
         "GameName": "Nights Of Egypt",
+        "GameImageURL": "//static.everymatrix.com/cms2/base/_casino/4/4B0726FC99CB21D031F2BE99C3005442.optimized.png",
         "RecommendationsIDs": [
             "em:60094",
             "em:47821",
@@ -10195,6 +10034,7 @@
     },
     {
         "GameName": "The Magic Brush",
+        "GameImageURL": "//static.everymatrix.com/cms2/base/_casino/1/178B5DA6A8A2DF809E7E1EDE5ED2E6BB.optimized.png",
         "RecommendationsIDs": [
             "em:39351",
             "em:35659",
@@ -10357,6 +10197,7 @@
     },
     {
         "GameName": "5 Frozen Charms Megaways\u2122",
+        "GameImageURL": "//static.everymatrix.com/cms2/base/_casino/C/CF02CF8C3AF04B9C248B4EFC3EB138C1.jpg",
         "RecommendationsIDs": [
             "em:60634",
             "em:37780",
@@ -10490,6 +10331,7 @@
     },
     {
         "GameName": "Mighty Joker Arcade",
+        "GameImageURL": "//static.everymatrix.com/cms2/base/_casino/1/1567EB6F0A6B523CC62320A8D2A47EAF.jpg",
         "RecommendationsIDs": [
             "em:17414",
             "em:55948",
@@ -10614,6 +10456,7 @@
     },
     {
         "GameName": "Three Lucky Stars",
+        "GameImageURL": "//static.everymatrix.com/cms2/base/_casino/C/CA613AACD21A660BC82179B568C6A408.jpg",
         "RecommendationsIDs": [
             "em:36817",
             "em:36807",
@@ -10740,6 +10583,7 @@
     },
     {
         "GameName": "Juicy Fruits\u2122",
+        "GameImageURL": "//static.everymatrix.com/cms2/unique/_casino/B/B3B39B24EB599D882BF5E66091439327.jpeg",
         "RecommendationsIDs": [
             "em:56821",
             "em:56537",
@@ -10858,6 +10702,7 @@
     },
     {
         "GameName": "Book Of Rebirth - Extreme",
+        "GameImageURL": "//static.everymatrix.com/cms2/base/_casino/4/42A06E016A7AE40D4F13A62AD74D6B59.jpg",
         "RecommendationsIDs": [
             "em:58921",
             "em:56537",
@@ -10989,6 +10834,7 @@
     },
     {
         "GameName": "Blazing Bull: Cash Quest",
+        "GameImageURL": "//static.everymatrix.com/cms2/base/_casino/9/947D229DC8EAB7C78A506B187F46EF36.jpg",
         "RecommendationsIDs": [
             "em:36834",
             "em:59019",
@@ -11109,6 +10955,7 @@
     },
     {
         "GameName": "Treasures of Egypt",
+        "GameImageURL": "//static.everymatrix.com/cms2/base/_casino/C/CB393C3A60F6C8AB568D5B9105AD5B22.jpg",
         "RecommendationsIDs": [
             "em:37051",
             "em:34375",
@@ -11265,6 +11112,7 @@
     },
     {
         "GameName": "Multi Hot 5",
+        "GameImageURL": "//static.everymatrix.com/cms2/base/_casino/9/9081EFDC02A3DC9088E5A2747B355E5B.jpg",
         "RecommendationsIDs": [
             "em:39410",
             "em:36811",
@@ -11388,6 +11236,7 @@
     },
     {
         "GameName": "Lion Gold Super Stake",
+        "GameImageURL": "//static.everymatrix.com/cms2/base/_casino/A/A39AAC01CFA2232D69A6C48713CCF2CC.jpg",
         "RecommendationsIDs": [
             "kr:25011",
             "em:58921",
@@ -11527,7 +11376,129 @@
         ]
     },
     {
+        "GameName": "1 Million Fortunes Megaways",
+        "GameImageURL": "//static.everymatrix.com/cms2/base/_casino/5/5817E08F496811CF086836B93D92D0EB.jpg",
+        "RecommendationsIDs": [
+            "em:56731",
+            "em:40161",
+            "em:37780",
+            "em:60634",
+            "em:56367",
+            "em:60777",
+            "em:61968",
+            "em:51422",
+            "em:60308",
+            "em:36497",
+            "em:57349",
+            "em:60085",
+            "em:51010"
+        ],
+        "RecommendationsURLs": [
+            "//static.everymatrix.com/cms2/unique/_casino/A/A7096CE324C3F9E91A0703253759EC58.jpeg",
+            "//static.everymatrix.com/cms2/unique/_casino/3/368BD12F00C7849771F8A8496233DF67.jpeg",
+            "//static.everymatrix.com/cms2/unique/_casino/1/13E360ACF1AB3654A0F299B79F81A7B3.jpg",
+            "//static.everymatrix.com/cms2/base/_casino/8/806C885104042282448BF5E508F1AFA8.jpg",
+            "//static.everymatrix.com/cms2/base/_casino/A/AC5613DAD48AB9E880E90773950FAAF4.jpg",
+            "//static.everymatrix.com/cms2/base/_casino/2/221F2DA0004B69ACC15F3DB6C28B7622.jpg",
+            "//static.everymatrix.com/cms2/base/_casino/6/643B76F7D465B029AED519C0DB192C7A.jpg",
+            "//static.everymatrix.com/cms2/base/_casino/A/A64B778C5E64C277D704A2BDD62D2BE7.jpg",
+            "//static.everymatrix.com/cms2/base/_casino/7/7F35077125FF987805B394A08634D41B.jpg",
+            "//static.everymatrix.com/cms2/base/_casino/1/11A96209238444E11E80DBE4717FF81B.jpg",
+            "//static.everymatrix.com/cms2/base/_casino/3/336EF594FF3F9D6501863D16F5A53FA3.jpg",
+            "//static.everymatrix.com/cms2/base/_casino/9/9F0504CC7735697E6454B4564DA925A2.jpg",
+            "//static.everymatrix.com/cms2/base/_casino/F/F0F661394DEB9ABB0CD367493FFE5CB3.jpg"
+        ],
+        "SimilarFeatures": [
+            [
+                "Betways",
+                "Type_VIDEOSLOTS",
+                "Volatility",
+                "Betways"
+            ],
+            [
+                "Betways",
+                "Type_VIDEOSLOTS",
+                "Volatility",
+                "Betways"
+            ],
+            [
+                "RTP",
+                "Betways",
+                "Type_VIDEOSLOTS",
+                "Provider_OneXTwoGaming",
+                "Features_Megaways",
+                "Betways"
+            ],
+            [
+                "Betways",
+                "Type_VIDEOSLOTS",
+                "Provider_OneXTwoGaming",
+                "Volatility",
+                "Betways"
+            ],
+            [
+                "Betways",
+                "Type_VIDEOSLOTS",
+                "Provider_OneXTwoGaming",
+                "Features_Megaways",
+                "Betways"
+            ],
+            [
+                "Betways",
+                "Type_VIDEOSLOTS",
+                "Provider_OneXTwoGaming",
+                "Volatility",
+                "Betways"
+            ],
+            [
+                "Type_VIDEOSLOTS",
+                "Provider_OneXTwoGaming",
+                "Features_Megaways",
+                "Volatility",
+                "Betways"
+            ],
+            [
+                "Type_VIDEOSLOTS",
+                "Features_Megaways",
+                "Volatility",
+                "Betways"
+            ],
+            [
+                "Type_VIDEOSLOTS",
+                "Volatility",
+                "Betways"
+            ],
+            [
+                "RTP",
+                "Type_VIDEOSLOTS",
+                "Provider_OneXTwoGaming",
+                "Features_Megaways",
+                "Hitrate",
+                "Volatility"
+            ],
+            [
+                "Type_VIDEOSLOTS",
+                "Provider_OneXTwoGaming",
+                "Hitrate",
+                "Volatility"
+            ],
+            [
+                "Type_VIDEOSLOTS",
+                "Provider_OneXTwoGaming",
+                "Themes_Classic",
+                "Volatility"
+            ],
+            [
+                "Type_VIDEOSLOTS",
+                "Hitrate",
+                "Volatility",
+                "Betways"
+            ]
+        ]
+    },
+    {
         "GameName": "Speakeasy Boost",
+        "GameImageURL": "//static.everymatrix.com/cms2/base/_casino/5/54BD945213FCF07250548DEE632FB9E1.jpg",
         "RecommendationsIDs": [
             "em:51205",
             "em:42637",
@@ -11665,6 +11636,7 @@
     },
     {
         "GameName": "5 Lions Megaways\u2122",
+        "GameImageURL": "//static.everymatrix.com/cms2/unique/_casino/2/2A4E395940DE99D8E04E2E8F2A54F17F.jpeg",
         "RecommendationsIDs": [
             "em:39818",
             "em:36344",
@@ -11781,6 +11753,7 @@
     },
     {
         "GameName": "Savannah Strike",
+        "GameImageURL": "//static.everymatrix.com/cms2/base/_casino/3/336EF594FF3F9D6501863D16F5A53FA3.jpg",
         "RecommendationsIDs": [
             "em:48820",
             "em:55091",
@@ -11902,6 +11875,7 @@
     },
     {
         "GameName": "John Hunter and the Tomb of the Scarab Queen\u2122",
+        "GameImageURL": "//static.everymatrix.com/cms2/unique/_casino/5/5A3A7721BDB0C51027148870E1D9FC6A.optimized.png",
         "RecommendationsIDs": [
             "em:60083",
             "em:44949",
@@ -12050,6 +12024,7 @@
     },
     {
         "GameName": "Rainbow Reels\u2122",
+        "GameImageURL": "//static.everymatrix.com/cms2/base/_casino/3/374B39BA34DEA5A93A371A41E1A0FF53.jpg",
         "RecommendationsIDs": [
             "em:38776",
             "em:59212",
@@ -12184,6 +12159,7 @@
     },
     {
         "GameName": "Apex Strike Megaways",
+        "GameImageURL": "//static.everymatrix.com/cms2/base/_casino/6/643B76F7D465B029AED519C0DB192C7A.jpg",
         "RecommendationsIDs": [
             "em:60308",
             "em:41125",
@@ -12315,6 +12291,7 @@
     },
     {
         "GameName": "Cash Express",
+        "GameImageURL": "//static.everymatrix.com/cms2/base/_casino/F/F760042A0FD8945B253D8C3B929FBFA8.jpg",
         "RecommendationsIDs": [
             "em:45008",
             "em:35663",
@@ -12438,6 +12415,7 @@
     },
     {
         "GameName": "Buffalo King Megaways\u2122",
+        "GameImageURL": "//static.everymatrix.com/cms2/unique/_casino/3/368BD12F00C7849771F8A8496233DF67.jpeg",
         "RecommendationsIDs": [
             "em:48936",
             "em:56731",
@@ -12553,6 +12531,7 @@
     },
     {
         "GameName": "Power of Merlin Megaways\u2122",
+        "GameImageURL": "//static.everymatrix.com/cms2/unique/_casino/A/A7096CE324C3F9E91A0703253759EC58.jpeg",
         "RecommendationsIDs": [
             "em:53480",
             "em:36344",
@@ -12669,6 +12648,7 @@
     },
     {
         "GameName": "Baba Yaga Tales - Mystic Fortune",
+        "GameImageURL": "//static.everymatrix.com/cms2/base/_casino/8/8EB80AF3E602FBF38EF2B6B00622186E.jpg",
         "RecommendationsIDs": [
             "kr:706",
             "kr:719",
@@ -12810,6 +12790,7 @@
     },
     {
         "GameName": "Ho Yeah Monkey ",
+        "GameImageURL": "//static.everymatrix.com/cms2/base/_casino/2/2A7AAEAA1C413A848943244BBFB25E5F.jpg",
         "RecommendationsIDs": [
             "em:17477",
             "em:34981",
@@ -12932,6 +12913,7 @@
     },
     {
         "GameName": "Wild West Gold \u2122",
+        "GameImageURL": "//static.everymatrix.com/cms2/unique/_casino/2/26042A9BA253E84E68E6A8695B51B771.jpeg",
         "RecommendationsIDs": [
             "em:15758",
             "em:35482",
@@ -13079,6 +13061,7 @@
     },
     {
         "GameName": "Bigger Bass Bonanza\u2122",
+        "GameImageURL": "//static.everymatrix.com/cms2/unique/_casino/7/75D3996B1067D21A120161009F2A70CC.jpeg",
         "RecommendationsIDs": [
             "em:36244",
             "em:39023",
@@ -13205,6 +13188,7 @@
     },
     {
         "GameName": "Joker Max Gamble Feature",
+        "GameImageURL": "//static.everymatrix.com/cms2/base/_casino/7/7F8A335665E1E9B150E6662773B068C6.jpg",
         "RecommendationsIDs": [
             "em:46358",
             "em:59019",
@@ -13344,6 +13328,7 @@
     },
     {
         "GameName": "Sweet Bonanza\u2122",
+        "GameImageURL": "//static.everymatrix.com/cms2/unique/_casino/7/7DAB642700F6D8255C1F285959085EAF.optimized.png",
         "RecommendationsIDs": [
             "em:39095",
             "em:60191",
@@ -13494,6 +13479,7 @@
     },
     {
         "GameName": "Legend of Atlantis",
+        "GameImageURL": "//static.everymatrix.com/cms2/base/_casino/7/76BDDA0AC2ECB17C489B008B785C262A.png",
         "RecommendationsIDs": [
             "em:55948",
             "em:17414",
@@ -13618,6 +13604,7 @@
     },
     {
         "GameName": "Spellbinding Mystery\u2122",
+        "GameImageURL": "//static.everymatrix.com/cms2/unique/_casino/2/23B8DDDB1FA1F8818760C30C06329AE2.jpeg",
         "RecommendationsIDs": [
             "em:40516",
             "em:50172",
@@ -13734,6 +13721,7 @@
     },
     {
         "GameName": "Maverick X",
+        "GameImageURL": "//static.everymatrix.com/cms2/base/_casino/6/6633743492C25D8A012C80B28A9590E2.jpg",
         "RecommendationsIDs": [
             "em:61668",
             "em:57596",
@@ -13844,6 +13832,7 @@
     },
     {
         "GameName": "777 - Halloween",
+        "GameImageURL": "//static.everymatrix.com/cms2/base/_casino/F/FBFD3942F2AD76FAB469C6A153300E3D.jpg",
         "RecommendationsIDs": [
             "em:39023",
             "em:14544",
@@ -13965,7 +13954,125 @@
         ]
     },
     {
+        "GameName": "Fruity Megaways",
+        "GameImageURL": "//static.everymatrix.com/cms2/base/_casino/A/AC5613DAD48AB9E880E90773950FAAF4.jpg",
+        "RecommendationsIDs": [
+            "em:60634",
+            "em:39818",
+            "em:60551",
+            "em:56731",
+            "em:36344",
+            "em:41125",
+            "em:48936",
+            "em:53480",
+            "em:61968",
+            "em:63094",
+            "em:57596",
+            "em:36807",
+            "em:35663"
+        ],
+        "RecommendationsURLs": [
+            "//static.everymatrix.com/cms2/base/_casino/8/806C885104042282448BF5E508F1AFA8.jpg",
+            "//static.everymatrix.com/cms2/unique/_casino/1/141BEF4668596C22F2A0E7A18B1117B4.jpeg",
+            "//static.everymatrix.com/cms2/base/_casino/C/CF02CF8C3AF04B9C248B4EFC3EB138C1.jpg",
+            "//static.everymatrix.com/cms2/unique/_casino/A/A7096CE324C3F9E91A0703253759EC58.jpeg",
+            "//static.everymatrix.com/cms2/unique/_casino/B/B8160F5DBDEF61465ED70EB10BAFE43F.jpeg",
+            "//static.everymatrix.com/cms2/unique/_casino/2/2A4E395940DE99D8E04E2E8F2A54F17F.jpeg",
+            "//static.everymatrix.com/cms2/base/_casino/5/5817E08F496811CF086836B93D92D0EB.jpg",
+            "//static.everymatrix.com/cms2/unique/_casino/1/1BEE848C77585073C4ECF6223345903C.jpeg",
+            "//static.everymatrix.com/cms2/base/_casino/6/643B76F7D465B029AED519C0DB192C7A.jpg",
+            "//static.everymatrix.com/cms2/base/_casino/9/910AC0AC010DA8415731E9568BF919B8.jpg",
+            "//static.everymatrix.com/cms2/base/_casino/8/86F9510FD3ECED541E2BE634AFCA45E4.jpg",
+            "//static.everymatrix.com/cms2/base/_casino/6/6544A5317757927C391F4E20243B7BB1.jpg",
+            "//static.everymatrix.com/cms2/base/_casino/0/0C6F98996FF7B5019030ACAF6CE63113.jpg"
+        ],
+        "SimilarFeatures": [
+            [
+                "Betways",
+                "Type_VIDEOSLOTS",
+                "Provider_OneXTwoGaming",
+                "Hitrate",
+                "Betways"
+            ],
+            [
+                "Betways",
+                "Type_VIDEOSLOTS",
+                "Betways"
+            ],
+            [
+                "Betways",
+                "Type_VIDEOSLOTS",
+                "Hitrate",
+                "Betways"
+            ],
+            [
+                "Betways",
+                "Type_VIDEOSLOTS",
+                "Betways"
+            ],
+            [
+                "Betways",
+                "Type_VIDEOSLOTS",
+                "Features_Megaways",
+                "Hitrate",
+                "Volatility",
+                "Betways"
+            ],
+            [
+                "Type_VIDEOSLOTS",
+                "Hitrate",
+                "Volatility",
+                "Betways"
+            ],
+            [
+                "Betways",
+                "Type_VIDEOSLOTS",
+                "Provider_OneXTwoGaming",
+                "Features_Megaways",
+                "Betways"
+            ],
+            [
+                "Betways",
+                "Type_VIDEOSLOTS",
+                "Betways"
+            ],
+            [
+                "Type_VIDEOSLOTS",
+                "Provider_OneXTwoGaming",
+                "Features_Megaways",
+                "Hitrate",
+                "Betways"
+            ],
+            [
+                "Betways",
+                "Type_VIDEOSLOTS",
+                "Features_Megaways",
+                "Hitrate",
+                "Volatility",
+                "Betways"
+            ],
+            [
+                "Type_VIDEOSLOTS",
+                "Provider_OneXTwoGaming",
+                "Hitrate",
+                "Volatility"
+            ],
+            [
+                "Type_VIDEOSLOTS",
+                "Themes_Fruits",
+                "Hitrate",
+                "Volatility"
+            ],
+            [
+                "Type_VIDEOSLOTS",
+                "Hitrate",
+                "Volatility"
+            ]
+        ]
+    },
+    {
         "GameName": "Joker Leprechauns",
+        "GameImageURL": "//static.everymatrix.com/cms2/base/_casino/6/6D8EC83B63B466048D9AB6555A439353.jpg",
         "RecommendationsIDs": [
             "em:39739",
             "em:52572",
@@ -14106,6 +14213,7 @@
     },
     {
         "GameName": "Smoking Hot Fruits Wild Respin",
+        "GameImageURL": "//static.everymatrix.com/cms2/base/_casino/5/5E4F76A070576DF0C8010D10C1CAEFF7.jpg",
         "RecommendationsIDs": [
             "em:35663",
             "em:57596",
@@ -14237,6 +14345,7 @@
     },
     {
         "GameName": "Blazing Goals",
+        "GameImageURL": "//static.everymatrix.com/cms2/base/_casino/9/93606E1D54F504B77C8E30EE800C16B5.jpg",
         "RecommendationsIDs": [
             "em:42355",
             "em:46624",
@@ -14354,6 +14463,7 @@
     },
     {
         "GameName": "Wild Gold",
+        "GameImageURL": "//static.everymatrix.com/cms2/base/_casino/7/7D6FCA3C94226007564B88BAE595D096.jpg",
         "RecommendationsIDs": [
             "em:36244",
             "em:36811",
@@ -14476,6 +14586,7 @@
     },
     {
         "GameName": "Golden Bear Mountain",
+        "GameImageURL": "//static.everymatrix.com/cms2/base/_casino/6/638E74E55A1ED29988DC03D23A9214A3.jpg",
         "RecommendationsIDs": [
             "em:46624",
             "em:46746",
@@ -14617,6 +14728,7 @@
     },
     {
         "GameName": "Prospector Wilds",
+        "GameImageURL": "//static.everymatrix.com/cms2/base/_casino/0/0BF0D07BA2F5260BAD8DEB402F2819AD.jpg",
         "RecommendationsIDs": [
             "em:17413",
             "em:46746",
@@ -14739,6 +14851,7 @@
     },
     {
         "GameName": "Phat Cats Megaways",
+        "GameImageURL": "//static.everymatrix.com/cms2/base/_casino/A/A64B778C5E64C277D704A2BDD62D2BE7.jpg",
         "RecommendationsIDs": [
             "em:60308",
             "em:60777",
@@ -14867,6 +14980,7 @@
     },
     {
         "GameName": "Wild Wild Riches Megaways",
+        "GameImageURL": "//static.everymatrix.com/cms2/unique/_casino/1/1BEE848C77585073C4ECF6223345903C.jpeg",
         "RecommendationsIDs": [
             "em:56731",
             "em:48936",
@@ -14991,6 +15105,7 @@
     },
     {
         "GameName": "Wealth Inn",
+        "GameImageURL": "//static.everymatrix.com/cms2/base/_casino/9/9DA5BE99F5D5011644397BB91C25CB39.jpg",
         "RecommendationsIDs": [
             "em:36811",
             "em:34981",
@@ -15112,6 +15227,7 @@
     },
     {
         "GameName": "Classic Fruits",
+        "GameImageURL": "//static.everymatrix.com/cms2/base/_casino/B/BE8D72685E1175671CEF4A6D2F13A3B0.jpg",
         "RecommendationsIDs": [
             "em:30557",
             "em:46358",
@@ -15234,6 +15350,7 @@
     },
     {
         "GameName": "Juicy Gold 100",
+        "GameImageURL": "//static.everymatrix.com/cms2/base/_casino/1/13D0D107A22C9D1FCB68EB43FA739895.jpg",
         "RecommendationsIDs": [
             "em:46624",
             "em:46746",
@@ -15371,6 +15488,7 @@
     },
     {
         "GameName": "Diamond Cascade\u2122",
+        "GameImageURL": "//static.everymatrix.com/cms2/unique/_casino/4/478724172FA92F7059D304FA8077BBD7.jpeg",
         "RecommendationsIDs": [
             "em:44354",
             "em:58092",
@@ -15479,6 +15597,7 @@
     },
     {
         "GameName": "Mighty Tiger",
+        "GameImageURL": "//static.everymatrix.com/cms2/base/_casino/B/B139519D7582A8C5640A5CF2DE4D2B2E.jpg",
         "RecommendationsIDs": [
             "em:30187",
             "em:39980",
@@ -15633,6 +15752,7 @@
     },
     {
         "GameName": "Lucky Christmas",
+        "GameImageURL": "//static.everymatrix.com/cms2/base/_casino/F/F182E33856089FAB9230090765B50B49.jpg",
         "RecommendationsIDs": [
             "em:46746",
             "em:34375",
@@ -15773,6 +15893,7 @@
     },
     {
         "GameName": "Hell Chef",
+        "GameImageURL": "//static.everymatrix.com/cms2/base/_casino/3/3A4F5C89A93A8FBA15B01358BA23EEAA.jpg",
         "RecommendationsIDs": [
             "kr:25011",
             "em:36864",
@@ -15892,6 +16013,7 @@
     },
     {
         "GameName": "Starlight Princess\u2122",
+        "GameImageURL": "//static.everymatrix.com/cms2/unique/_casino/0/0DCE07332A331D60929E5B345FC3267F.jpeg",
         "RecommendationsIDs": [
             "em:60191",
             "em:35483",
@@ -16027,6 +16149,7 @@
     },
     {
         "GameName": "Rooster Mobs\u2122",
+        "GameImageURL": "//static.everymatrix.com/cms2/base/_casino/B/B67398DE835E9A9F85191D68038FC7B2.jpg",
         "RecommendationsIDs": [
             "em:60375",
             "em:37047",
@@ -16157,6 +16280,7 @@
     },
     {
         "GameName": "Fiery Sevens",
+        "GameImageURL": "//static.everymatrix.com/cms2/base/_casino/8/82810ECD52CF3ED9F819D604E1D8B26F.jpg",
         "RecommendationsIDs": [
             "em:52572",
             "em:55968",
@@ -16268,6 +16392,7 @@
     },
     {
         "GameName": "Lucky Money",
+        "GameImageURL": "//static.everymatrix.com/cms2/base/_casino/0/04D06CD05F05B95317A12808503E1F70.png",
         "RecommendationsIDs": [
             "em:60357",
             "em:17426",
@@ -16393,6 +16518,7 @@
     },
     {
         "GameName": "Lucky Dolphin",
+        "GameImageURL": "//static.everymatrix.com/cms2/base/_casino/C/CF4E85B07EC306143B7720957BAF3280.png",
         "RecommendationsIDs": [
             "em:17407",
             "em:17401",
@@ -16516,6 +16642,7 @@
     },
     {
         "GameName": "Balloon",
+        "GameImageURL": "//static.everymatrix.com/cms2/base/_casino/3/3643F99DF9AF101240D5A7C19C550927.jpg",
         "RecommendationsIDs": [
             "em:41209",
             "em:39348",
@@ -16635,6 +16762,7 @@
     },
     {
         "GameName": "Joker Drop\u2122",
+        "GameImageURL": "//static.everymatrix.com/cms2/base/_casino/1/1CED1F96C4703D53ECE34B31C3E3C4BD.jpg",
         "RecommendationsIDs": [
             "em:48820",
             "em:60001",
@@ -16768,6 +16896,7 @@
     },
     {
         "GameName": "Nile Fortune\u2122",
+        "GameImageURL": "//static.everymatrix.com/cms2/base/_casino/8/86E23EA57D490A98B0F169A306AB6003.jpg",
         "RecommendationsIDs": [
             "em:60083",
             "em:44949",
@@ -16921,6 +17050,7 @@
     },
     {
         "GameName": "Chase for Glory\u2122",
+        "GameImageURL": "//static.everymatrix.com/cms2/base/_casino/5/59594B6D3C9BDA9F28268675BD74B0F1.jpg",
         "RecommendationsIDs": [
             "em:43055",
             "em:48820",
@@ -17048,6 +17178,7 @@
     },
     {
         "GameName": "9 Gems",
+        "GameImageURL": "//static.everymatrix.com/cms2/base/_casino/B/B9EB429999DD95D7DA53F90D1D52D683.jpg",
         "RecommendationsIDs": [
             "em:55948",
             "em:42355",
@@ -17177,6 +17308,7 @@
     },
     {
         "GameName": "Poseidon's Rising",
+        "GameImageURL": "//static.everymatrix.com/cms2/base/_casino/B/BC73E7D870EAA76D64AD9F965B492095.jpg",
         "RecommendationsIDs": [
             "em:60384",
             "kr:600",
@@ -17310,6 +17442,7 @@
     },
     {
         "GameName": "One Million Megaways BC",
+        "GameImageURL": "//static.everymatrix.com/cms2/base/_casino/1/11A96209238444E11E80DBE4717FF81B.jpg",
         "RecommendationsIDs": [
             "em:48820",
             "em:57625",
@@ -17444,6 +17577,7 @@
     },
     {
         "GameName": "Crash Duel X",
+        "GameImageURL": "//static.everymatrix.com/cms2/base/_casino/0/03207CED6DCF1B18F9E7D5978C2B5D9B.jpg",
         "RecommendationsIDs": [
             "em:57596",
             "em:36807",
@@ -17550,6 +17684,7 @@
     },
     {
         "GameName": "Hot Joker Fruits: Hold & Win",
+        "GameImageURL": "//static.everymatrix.com/cms2/base/_casino/9/9F0504CC7735697E6454B4564DA925A2.jpg",
         "RecommendationsIDs": [
             "em:48820",
             "em:17480",
@@ -17674,6 +17809,7 @@
     },
     {
         "GameName": "Stampeding Strike",
+        "GameImageURL": "//static.everymatrix.com/cms2/base/_casino/A/AA92CD3C60198475A5CE2C61CA99D568.jpg",
         "RecommendationsIDs": [
             "em:44354",
             "em:57349",
@@ -17805,6 +17941,7 @@
     },
     {
         "GameName": "Hot 7 Hold & Spin",
+        "GameImageURL": "//static.everymatrix.com/cms2/base/_casino/E/EEFB01A3D7A86417F7CA77062A39C87D.jpg",
         "RecommendationsIDs": [
             "em:17477",
             "em:49165",
@@ -17939,6 +18076,7 @@
     },
     {
         "GameName": "Fruits and 777's",
+        "GameImageURL": "//static.everymatrix.com/cms2/base/_casino/9/9AE4D061DBB4CF56C351DF2BFA2B9817.jpg",
         "RecommendationsIDs": [
             "em:39023",
             "em:17477",
@@ -18061,6 +18199,7 @@
     },
     {
         "GameName": "PiggyBank - Stacked Fortune",
+        "GameImageURL": "//static.everymatrix.com/cms2/base/_casino/6/6350ECFCE3F37FA773A260FC296D38DB.jpg",
         "RecommendationsIDs": [
             "kr:600",
             "em:58970",
@@ -18191,6 +18330,7 @@
     },
     {
         "GameName": "Backyard Gold",
+        "GameImageURL": "//static.everymatrix.com/cms2/base/_casino/E/E7EABF9C0CEDFE71373CCF1C4306F7F1.jpg",
         "RecommendationsIDs": [
             "em:35664",
             "em:34375",
@@ -18350,6 +18490,7 @@
     },
     {
         "GameName": "Lucky Koi Exclusive",
+        "GameImageURL": "//static.everymatrix.com/cms2/base/_casino/6/6959930511EC9DB818CF7BEFB8A84066.jpg",
         "RecommendationsIDs": [
             "em:35731",
             "em:36864",
@@ -18484,6 +18625,7 @@
     },
     {
         "GameName": "Tropical Fruitsie",
+        "GameImageURL": "//static.everymatrix.com/cms2/base/_casino/E/E5468F286105DC57834D7F5D1336E964.jpg",
         "RecommendationsIDs": [
             "em:35731",
             "em:36809",
@@ -18598,6 +18740,7 @@
     },
     {
         "GameName": "Crash Royale",
+        "GameImageURL": "//static.everymatrix.com/cms2/unique/_casino/C/C90B1D348A38A18EE872AA059220AF37.jpg",
         "RecommendationsIDs": [
             "em:60802",
             "em:60800",
@@ -18713,6 +18856,7 @@
     },
     {
         "GameName": "Diamond Supreme Hold and Win",
+        "GameImageURL": "//static.everymatrix.com/cms2/base/_casino/1/195D3F2B69F9B69B3269E93913B5D4FF.jpg",
         "RecommendationsIDs": [
             "kr:717",
             "kr:701",
@@ -18862,6 +19006,7 @@
     },
     {
         "GameName": "Spinjoy Society",
+        "GameImageURL": "//static.everymatrix.com/cms2/base/_casino/E/EAEF1BBFCEBA74DFCF96F79AE327D9A5.jpg",
         "RecommendationsIDs": [
             "em:42355",
             "em:60675",
@@ -18987,6 +19132,7 @@
     },
     {
         "GameName": "Wolf Gold\u2122",
+        "GameImageURL": "//static.everymatrix.com/cms2/unique/_casino/B/BF27C760869DE60B895353CDCFEEEF0D.jpeg",
         "RecommendationsIDs": [
             "em:15758",
             "em:30129",
@@ -19132,6 +19278,7 @@
     },
     {
         "GameName": "7 & Hot Fruits",
+        "GameImageURL": "//static.everymatrix.com/cms2/base/_casino/D/D5BAC7E742B9137B04806F9AFC087C9A.jpg",
         "RecommendationsIDs": [
             "em:49165",
             "em:17407",
@@ -19262,6 +19409,7 @@
     },
     {
         "GameName": "Alien Hunter",
+        "GameImageURL": "//static.everymatrix.com/cms2/base/_casino/5/5A24F5B3B7D7551EC43E1B0E4C1E0B1E.jpg",
         "RecommendationsIDs": [
             "em:40110",
             "em:31038",
@@ -19384,6 +19532,7 @@
     },
     {
         "GameName": "John Daly Spin It And Win It",
+        "GameImageURL": "//static.everymatrix.com/cms2/base/_casino/5/5ED741ECBF55603418B4B5F8F0DEAA22.jpg",
         "RecommendationsIDs": [
             "em:37048",
             "em:37051",
@@ -19536,6 +19685,7 @@
     },
     {
         "GameName": "Queen Of Ice",
+        "GameImageURL": "//static.everymatrix.com/cms2/base/_casino/F/F4B6B13E23D7A01720689E5CB0768B7B.jpg",
         "RecommendationsIDs": [
             "em:35327",
             "em:60118",
@@ -19682,6 +19832,7 @@
     },
     {
         "GameName": "Crash 1917",
+        "GameImageURL": "//static.everymatrix.com/cms2/base/_casino/D/D920545F1D968996F519DA029DC8D4C7.jpg",
         "RecommendationsIDs": [
             "em:60803",
             "em:60800",
@@ -19798,6 +19949,7 @@
     },
     {
         "GameName": "Arriba Heat!",
+        "GameImageURL": "//static.everymatrix.com/cms2/base/_casino/7/7550021ACE85E92C5C08D1A841D93785.jpg",
         "RecommendationsIDs": [
             "em:62515",
             "em:60249",
@@ -19938,6 +20090,7 @@
     },
     {
         "GameName": "Book of the Fallen\u2122",
+        "GameImageURL": "//static.everymatrix.com/cms2/unique/_casino/9/97974EB2CE462ACE9950CF3CD5E5B5B1.jpeg",
         "RecommendationsIDs": [
             "em:60253",
             "em:49951",
@@ -20084,6 +20237,7 @@
     },
     {
         "GameName": "The Secret of Machu Picchu\u2122",
+        "GameImageURL": "//static.everymatrix.com/cms2/base/_casino/5/5D15DA036811DF951DD2660E88D9709B.jpg",
         "RecommendationsIDs": [
             "em:60001",
             "em:60198",
@@ -20206,6 +20360,7 @@
     },
     {
         "GameName": "Great Rhino Megaways\u2122",
+        "GameImageURL": "//static.everymatrix.com/cms2/unique/_casino/3/3638ED9A08E6FD3E3922F1118B75A65D.jpeg",
         "RecommendationsIDs": [
             "em:41125",
             "em:36344",
@@ -20333,6 +20488,7 @@
     },
     {
         "GameName": "Wild Wild Bass",
+        "GameImageURL": "//static.everymatrix.com/cms2/base/_casino/E/E37DF24A7E6BD5BCD9C2BFF22262F27D.jpg",
         "RecommendationsIDs": [
             "em:62119",
             "em:50336",
@@ -20455,6 +20611,7 @@
     },
     {
         "GameName": "Football X",
+        "GameImageURL": "//static.everymatrix.com/cms2/base/_casino/F/F80B95D120DCF16FF48D6785D9BB7068.jpg",
         "RecommendationsIDs": [
             "em:35731",
             "em:46406",
@@ -20569,6 +20726,7 @@
     },
     {
         "GameName": "Moji Mania",
+        "GameImageURL": "//static.everymatrix.com/cms2/base/_casino/0/0CFB3066F8DAC17778433DD5EE4471F0.jpg",
         "RecommendationsIDs": [
             "em:59802",
             "kr:25011",
@@ -20711,6 +20869,7 @@
     },
     {
         "GameName": "3 Wild Jokers",
+        "GameImageURL": "//static.everymatrix.com/cms2/base/_casino/6/68A5AA89BD85F37B042DCB9553FC5CFD.jpg",
         "RecommendationsIDs": [
             "em:49617",
             "em:46746",
@@ -20842,6 +21001,7 @@
     },
     {
         "GameName": "Book Of Demi Gods II",
+        "GameImageURL": "//static.everymatrix.com/cms2/base/_casino/5/5D1BC3A3F25FCD9C2C783E13DF929DD5.jpg",
         "RecommendationsIDs": [
             "em:17480",
             "em:60198",
@@ -20977,6 +21137,7 @@
     },
     {
         "GameName": "Power of Thor Megaways\u2122",
+        "GameImageURL": "//static.everymatrix.com/cms2/unique/_casino/1/141BEF4668596C22F2A0E7A18B1117B4.jpeg",
         "RecommendationsIDs": [
             "em:60551",
             "em:37780",
@@ -21095,6 +21256,7 @@
     },
     {
         "GameName": "Fruit Twister",
+        "GameImageURL": "//static.everymatrix.com/cms2/base/_casino/2/271D669E2BCFC7EABCAC58AB47C203E1.jpg",
         "RecommendationsIDs": [
             "em:48907",
             "em:60253",
@@ -21249,6 +21411,7 @@
     },
     {
         "GameName": "Fruitsie",
+        "GameImageURL": "//static.everymatrix.com/cms2/base/_casino/0/0C6F98996FF7B5019030ACAF6CE63113.jpg",
         "RecommendationsIDs": [
             "em:36807",
             "em:61668",
@@ -21362,6 +21525,7 @@
     },
     {
         "GameName": "Crash Ghostly",
+        "GameImageURL": "//static.everymatrix.com/cms2/base/_casino/5/5A766E22619D6435EC9C098FEBEFD5A8.jpg",
         "RecommendationsIDs": [
             "em:60805",
             "em:60793",
@@ -21475,6 +21639,7 @@
     },
     {
         "GameName": "Minerz",
+        "GameImageURL": "//static.everymatrix.com/cms2/base/_casino/3/38DDA7A27E07AC667098307EB27D9B66.jpg",
         "RecommendationsIDs": [
             "em:60384",
             "em:57855",
@@ -21595,6 +21760,7 @@
     },
     {
         "GameName": "Big Bass Crash\u2122",
+        "GameImageURL": "//static.everymatrix.com/cms2/base/_casino/E/EE625E3E35684F1F8C293C6B273A0D9C.jpg",
         "RecommendationsIDs": [
             "em:61668",
             "em:41802",
@@ -21703,6 +21869,7 @@
     },
     {
         "GameName": "1 Reel Reef",
+        "GameImageURL": "//static.everymatrix.com/cms2/base/_casino/F/F0BA5FD278A8DDE67FFF84F19343C6A9.jpg",
         "RecommendationsIDs": [
             "em:62119",
             "em:50853",
@@ -21845,6 +22012,7 @@
     },
     {
         "GameName": "Candy Jar Cluster\u2122",
+        "GameImageURL": "//static.everymatrix.com/cms2/base/_casino/F/F6CA49C02A778C6CCA08809120DDB5AA.jpg",
         "RecommendationsIDs": [
             "em:62393",
             "em:44354",
@@ -21977,6 +22145,7 @@
     },
     {
         "GameName": "Fat Panda\u2122",
+        "GameImageURL": "//static.everymatrix.com/cms2/unique/_casino/D/D8C852549D8A6EBC8D769391061FC94B.jpeg",
         "RecommendationsIDs": [
             "em:40516",
             "em:58970",
@@ -22105,6 +22274,7 @@
     },
     {
         "GameName": "Mystic Fortune Deluxe",
+        "GameImageURL": "//static.everymatrix.com/cms2/base/_casino/0/07D8757F449854F730EF67A7A9C4F528.jpg",
         "RecommendationsIDs": [
             "em:35841",
             "em:17480",
@@ -22245,6 +22415,7 @@
     },
     {
         "GameName": "John Hunter and the Book of Tut\u2122",
+        "GameImageURL": "//static.everymatrix.com/cms2/unique/_casino/D/DB1297984A1CCCB347F24DCD79AE76A1.jpeg",
         "RecommendationsIDs": [
             "em:31447",
             "em:53081",
@@ -22382,6 +22553,7 @@
     },
     {
         "GameName": "Crash 3DX",
+        "GameImageURL": "//static.everymatrix.com/cms2/base/_casino/8/8B932108DC968A6072E25785204D573B.jpg",
         "RecommendationsIDs": [
             "em:60800",
             "em:60803",
@@ -22494,6 +22666,7 @@
     },
     {
         "GameName": "Gems Bonanza\u2122",
+        "GameImageURL": "//static.everymatrix.com/cms2/unique/_casino/9/9AA809C4D40E071B464504A56F752FE0.jpeg",
         "RecommendationsIDs": [
             "em:36909",
             "em:45226",
@@ -22638,6 +22811,7 @@
     },
     {
         "GameName": "Allstar 7s Hold and Win",
+        "GameImageURL": "//static.everymatrix.com/cms2/base/_casino/3/358E6F30F7A304BB5D36409990BB00EF.jpg",
         "RecommendationsIDs": [
             "em:17426",
             "em:17414",
@@ -22755,6 +22929,7 @@
     },
     {
         "GameName": "Forge of Olympus\u2122",
+        "GameImageURL": "//static.everymatrix.com/cms2/unique/_casino/8/8D427A0B805B31B229129FACA61877B2.jpeg",
         "RecommendationsIDs": [
             "em:43055",
             "em:57625",
@@ -22889,6 +23064,7 @@
     },
     {
         "GameName": "Crash Witch",
+        "GameImageURL": "//static.everymatrix.com/cms2/base/_casino/2/27CB819E7A27BE8D962F3FD60ACCA3A8.jpg",
         "RecommendationsIDs": [
             "em:60793",
             "em:60802",
@@ -23002,6 +23178,7 @@
     },
     {
         "GameName": "Double Flame",
+        "GameImageURL": "//static.everymatrix.com/cms2/base/_casino/1/1E3528058C5BBA1EC4BEDE326D0E0FD3.jpg",
         "RecommendationsIDs": [
             "em:36834",
             "em:46406",
@@ -23119,6 +23296,7 @@
     },
     {
         "GameName": "Lucky Lightning\u2122",
+        "GameImageURL": "//static.everymatrix.com/cms2/base/_casino/6/69DE645853384078EE8EAF026D121B37.jpg",
         "RecommendationsIDs": [
             "em:56537",
             "em:56821",
@@ -23241,6 +23419,7 @@
     },
     {
         "GameName": "Lucky Spin",
+        "GameImageURL": "//static.everymatrix.com/cms2/base/_casino/E/E04A5E6800DC4B97A8E9E4148E776575.jpg",
         "RecommendationsIDs": [
             "em:35659",
             "em:39351",
@@ -23391,6 +23570,7 @@
     },
     {
         "GameName": "HelicopterX",
+        "GameImageURL": "//static.everymatrix.com/cms2/base/_casino/3/3021DFB6E568D78140FBC67E0F925F1A.jpg",
         "RecommendationsIDs": [
             "em:60800",
             "em:60793",
@@ -23503,6 +23683,7 @@
     },
     {
         "GameName": "Star Staxx",
+        "GameImageURL": "//static.everymatrix.com/cms2/base/_casino/0/0CBF06FD8128D3772873E2B07BB35BBB.jpg",
         "RecommendationsIDs": [
             "em:51426",
             "em:41742",
@@ -23640,6 +23821,7 @@
     },
     {
         "GameName": "Joker Wild Blaster",
+        "GameImageURL": "//static.everymatrix.com/cms2/base/_casino/D/D70F86151B857E9A12690A2D9E14FDC4.jpg",
         "RecommendationsIDs": [
             "em:39023",
             "em:51426",
@@ -23782,6 +23964,7 @@
     },
     {
         "GameName": "Rainin' Money",
+        "GameImageURL": "//static.everymatrix.com/cms2/base/_casino/8/86F9510FD3ECED541E2BE634AFCA45E4.jpg",
         "RecommendationsIDs": [
             "em:36807",
             "em:61668",
@@ -23897,6 +24080,7 @@
     },
     {
         "GameName": "Queen Of Fire",
+        "GameImageURL": "//static.everymatrix.com/cms2/base/_casino/1/1D385AA9BFDA0220BCE226FFF49FA39D.jpg",
         "RecommendationsIDs": [
             "em:35327",
             "em:60118",
@@ -24041,6 +24225,7 @@
     },
     {
         "GameName": "Vegas Blast Minimax",
+        "GameImageURL": "//static.everymatrix.com/cms2/base/_casino/3/3FE32B3A0848BF1DCBE63E924968C879.jpg",
         "RecommendationsIDs": [
             "em:45226",
             "em:37522",
@@ -24177,6 +24362,7 @@
     },
     {
         "GameName": "Wild Wild Riches",
+        "GameImageURL": "//static.everymatrix.com/cms2/unique/_casino/7/73560762C7422B35569ED78E0D568996.jpeg",
         "RecommendationsIDs": [
             "em:59019",
             "em:48219",
@@ -24298,6 +24484,7 @@
     },
     {
         "GameName": "Crazy Jellies",
+        "GameImageURL": "//static.everymatrix.com/cms2/base/_casino/2/21DE7C6F05BD23F4C2A53FCA41A90536.png",
         "RecommendationsIDs": [
             "em:17414",
             "em:55948",
@@ -24422,6 +24609,7 @@
     },
     {
         "GameName": "Encharmed Quattro",
+        "GameImageURL": "//static.everymatrix.com/cms2/base/_casino/8/8C20C31BFE15D4954941DAEDE77461A9.jpg",
         "RecommendationsIDs": [
             "em:41132",
             "em:17133",
@@ -24547,6 +24735,7 @@
     },
     {
         "GameName": "Wisdom of Athena\u2122",
+        "GameImageURL": "//static.everymatrix.com/cms2/unique/_casino/C/C5800581CF12AD4B7DC85CFE8DC07541.jpeg",
         "RecommendationsIDs": [
             "em:57855",
             "em:44354",
@@ -24688,6 +24877,7 @@
     },
     {
         "GameName": "Pick A Fruit - Frosty Reels",
+        "GameImageURL": "//static.everymatrix.com/cms2/base/_casino/8/8B94D303A281D02032494BE32F4C9CAA.jpg",
         "RecommendationsIDs": [
             "em:42447",
             "em:54835",
@@ -24825,6 +25015,7 @@
     },
     {
         "GameName": "Trout's Treasure - Fishing Season",
+        "GameImageURL": "//static.everymatrix.com/cms2/base/_casino/C/CCBCAC35532D9720C6BB00062AF77B21.jpg",
         "RecommendationsIDs": [
             "kr:715",
             "kr:706",
@@ -24963,6 +25154,7 @@
     },
     {
         "GameName": "1 Reel - Cash Vault",
+        "GameImageURL": "//static.everymatrix.com/cms2/base/_casino/0/0DB28E7557230B7EB3B9AC357333D788.jpg",
         "RecommendationsIDs": [
             "em:50853",
             "em:54835",
@@ -25104,6 +25296,7 @@
     },
     {
         "GameName": "Prospector Wilds: Gold Digga",
+        "GameImageURL": "//static.everymatrix.com/cms2/base/_casino/E/E53BA99776171B57039FEB3DAD322FC0.jpg",
         "RecommendationsIDs": [
             "em:60375",
             "em:37047",
@@ -25239,6 +25432,7 @@
     },
     {
         "GameName": "Tiki Tiki Hold 'N' Win",
+        "GameImageURL": "//static.everymatrix.com/cms2/base/_casino/9/96BFEF8B5531105B8802B07AAE4267D9.jpg",
         "RecommendationsIDs": [
             "em:41742",
             "em:51426",
@@ -25379,6 +25573,7 @@
     },
     {
         "GameName": "3 Jokers",
+        "GameImageURL": "//static.everymatrix.com/cms2/base/_casino/D/DCFDA1949EAE7FD415FB35FE8FD7F57E.jpg",
         "RecommendationsIDs": [
             "em:45008",
             "em:53098",
@@ -25517,6 +25712,7 @@
     },
     {
         "GameName": "Hot Joker",
+        "GameImageURL": "//static.everymatrix.com/cms2/base/_casino/C/C7C71FDF9EBE20D837720926DCAA5C08.jpg",
         "RecommendationsIDs": [
             "em:30187",
             "em:41742",
@@ -25660,6 +25856,7 @@
     },
     {
         "GameName": "Feng Shui Master",
+        "GameImageURL": "//static.everymatrix.com/cms2/base/_casino/A/A562FB96029445E71C8E15596FA9B834.jpg",
         "RecommendationsIDs": [
             "em:35664",
             "em:34375",
@@ -25818,6 +26015,7 @@
     },
     {
         "GameName": "Strawberry Cocktail",
+        "GameImageURL": "//static.everymatrix.com/cms2/base/_casino/8/82EDC5E64CF21A9E38EAB0656FA3D929.jpg",
         "RecommendationsIDs": [
             "em:59212",
             "em:52572",
@@ -25967,6 +26165,7 @@
     },
     {
         "GameName": "Beware The Deep Megaways\u2122",
+        "GameImageURL": "//static.everymatrix.com/cms2/base/_casino/9/910AC0AC010DA8415731E9568BF919B8.jpg",
         "RecommendationsIDs": [
             "em:36344",
             "em:60634",
@@ -26111,6 +26310,7 @@
     },
     {
         "GameName": "Skulls Gone Wild",
+        "GameImageURL": "//static.everymatrix.com/cms2/base/_casino/E/EE511AE24353A2DEE60AD5B1B20AB32C.jpg",
         "RecommendationsIDs": [
             "em:51426",
             "em:53098",
@@ -26239,6 +26439,7 @@
     },
     {
         "GameName": "Christmas Megaways",
+        "GameImageURL": "//static.everymatrix.com/cms2/base/_casino/2/221F2DA0004B69ACC15F3DB6C28B7622.jpg",
         "RecommendationsIDs": [
             "em:40161",
             "em:60308",
@@ -26380,6 +26581,7 @@
     },
     {
         "GameName": "Big Bass Christmas Bash\u2122",
+        "GameImageURL": "//static.everymatrix.com/cms2/base/_casino/D/D56B990F30790902D8C994A8F45532BB.jpg",
         "RecommendationsIDs": [
             "em:60249",
             "em:43578",
@@ -26518,6 +26720,7 @@
     },
     {
         "GameName": "Wild Santa 3",
+        "GameImageURL": "//static.everymatrix.com/cms2/base/_casino/9/9A9BCAB8494DE0557A7F56116F134CE8.jpg",
         "RecommendationsIDs": [
             "em:36981",
             "em:41132",
@@ -26643,6 +26846,7 @@
     },
     {
         "GameName": "Classic Joker 5 Reels",
+        "GameImageURL": "//static.everymatrix.com/cms2/base/_casino/6/662A590B3B88710DB2D889FD4280D354.png",
         "RecommendationsIDs": [
             "em:34981",
             "em:14544",
@@ -26769,6 +26973,7 @@
     },
     {
         "GameName": "Christmas Megaways",
+        "GameImageURL": "//static.everymatrix.com/cms2/unique/_casino/1/13E360ACF1AB3654A0F299B79F81A7B3.jpg",
         "RecommendationsIDs": [
             "em:56731",
             "em:36344",
@@ -26892,6 +27097,7 @@
     },
     {
         "GameName": "Seven and Fruits",
+        "GameImageURL": "",
         "RecommendationsIDs": [
             "kr:701",
             "kr:717",
@@ -27058,6 +27264,7 @@
     },
     {
         "GameName": "Burning Wins Classic 5 Lines",
+        "GameImageURL": "",
         "RecommendationsIDs": [
             "kr:716",
             "kr:717",
@@ -27224,6 +27431,7 @@
     },
     {
         "GameName": "Royal Coins Hold and Win",
+        "GameImageURL": "",
         "RecommendationsIDs": [
             "kr:719",
             "kr:700",
@@ -27390,6 +27598,7 @@
     },
     {
         "GameName": "Fruits and Jokers 20 Lines",
+        "GameImageURL": "",
         "RecommendationsIDs": [
             "kr:701",
             "kr:717",
@@ -27556,6 +27765,7 @@
     },
     {
         "GameName": "Diamond Fortunator Hold and Win",
+        "GameImageURL": "",
         "RecommendationsIDs": [
             "kr:719",
             "kr:700",
@@ -27722,6 +27932,7 @@
     },
     {
         "GameName": "Solar Queen",
+        "GameImageURL": "",
         "RecommendationsIDs": [
             "kr:717",
             "kr:710",
@@ -27888,6 +28099,7 @@
     },
     {
         "GameName": "F777",
+        "GameImageURL": "",
         "RecommendationsIDs": [
             "em:58970",
             "em:38186",
@@ -28019,6 +28231,7 @@
     },
     {
         "GameName": "Buffalo Power Hold and Win",
+        "GameImageURL": "",
         "RecommendationsIDs": [
             "kr:717",
             "kr:710",
@@ -28185,6 +28398,7 @@
     },
     {
         "GameName": "Rocket Racers",
+        "GameImageURL": "",
         "RecommendationsIDs": [
             "em:60405",
             "em:59753",
@@ -28318,6 +28532,7 @@
     },
     {
         "GameName": "Seven and Fruits 20 Lines",
+        "GameImageURL": "",
         "RecommendationsIDs": [
             "kr:716",
             "kr:701",
@@ -28484,6 +28699,7 @@
     },
     {
         "GameName": "Sunny Fruits Hold and Win",
+        "GameImageURL": "",
         "RecommendationsIDs": [
             "kr:706",
             "kr:704",
