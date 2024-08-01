@@ -53,7 +53,7 @@ if st.session_state["authentication_status"]:
     df = pd.read_csv(csv_path)
 
     # Replace null values with medians
-    columns_to_fill = ['RTP', 'Betways']
+    columns_to_fill = ['Betways']
 
     # Calculate medians for the columns, handling Betways separately
     medians = {}
@@ -68,9 +68,6 @@ if st.session_state["authentication_status"]:
     # Fill the null values with the calculated medians
     for column, median in medians.items():
         df[column].fillna(median, inplace=True)
-        
-    df['RTP'] = df['RTP'] * 100
-    df['RTP'] = df['RTP'].map('{:.1f}%'.format)
 
     # Extract unique game names
     game_names = [item['GameName'] for item in data]
@@ -155,12 +152,30 @@ if st.session_state["authentication_status"]:
                             
         add_vertical_space(3)
 
+        def get_column_config(df):
+            config = {
+                "GameID": None,
+                "order": None
+            }
+            
+            config.update({
+                col: st.column_config.Column(width="auto") 
+                for col in df.columns 
+                if col not in ['GameID', 'order']
+            })
+            
+            return config
+
         # Display the dataframe with the selected game's row with highlighted features
         st.subheader("Selected Game Details")
         selected_game_row = df[df['Name'] == selected_game].drop(columns=['GameID'])
         if not selected_game_row.empty:
             selected_game_styled = selected_game_row.style.apply(highlight_features, features=[item for sublist in selected_game_data['SimilarFeatures'] for item in sublist], axis=1)
-            st.dataframe(selected_game_styled, hide_index=True)
+            st.dataframe(
+                selected_game_styled,
+                hide_index=True,
+                column_config=get_column_config(selected_game_row)
+            )
 
         # Display the recommendations dataframe with highlighted features
         st.subheader("Recommendations and Features")
@@ -185,11 +200,11 @@ if st.session_state["authentication_status"]:
             )
         height = len(recommendation_rows) * 35 + 38
         st.dataframe(
-                recommendation_styled,
-                hide_index=True,
-                height=height,
-                column_config={"GameID": None, "order": None}  # Hide both GameID and order columns
-            )
+            recommendation_styled,
+            hide_index=True,
+            height=height,
+            column_config=get_column_config(recommendation_rows)
+        )
 elif st.session_state["authentication_status"] is False:
     st.error('Username/password is incorrect')
 elif st.session_state["authentication_status"] is None:
